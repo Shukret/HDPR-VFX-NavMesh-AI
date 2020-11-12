@@ -12,9 +12,9 @@ Unfortunately, my GPU does not pull the quality of such settings in Runtime, so 
 ![View 2 Image](https://github.com/Shukret/HDPR-VFX-NavMesh-AI/blob/main/ImgPrev/View2.png)
 
 And in this project I worked with vfx system:
-  * Fall leafes [Click on image for watch]
+  * Fall leafes 
 [![Video fall leafes](https://i9.ytimg.com/vi/FlQb5WZzAL4/mq2.jpg?sqp=CIzNtf0F&rs=AOn4CLBgSCYErdfzWeM3pIUsiH--GFSYIQ](https://www.youtube.com/watch?v=FlQb5WZzAL4)
   
-  * Plasma vfx [Click on image for watch]
+  * Plasma vfx 
  [![Video plasma vfx](https://i9.ytimg.com/vi/VC04Myg8XNg/mq2.jpg?sqp=CODKtf0F&rs=AOn4CLBWqNAaYuEu1lsLewntFp6TF64hHg](https://www.youtube.com/watch?v=VC04Myg8XNg)
 
