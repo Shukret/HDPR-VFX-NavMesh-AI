@@ -1,0 +1,3133 @@
+fileFormatVersion: 2
+guid: fafb8b962ce942d48abee21dcf25deea
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -4044527148615573485
+    second: Tree|Camera001|Take 001|BaseLayer
+  - first:
+      74: 2383737063867180046
+    second: Tree|Camera002|Take 001|BaseLayer
+  - first:
+      74: -9069378031037448184
+    second: Tree|Camera003|Take 001|BaseLayer
+  - first:
+      74: -3427431351197678623
+    second: Tree|CScatter_convert_Box001|Take 001|BaseLayer
+  - first:
+      74: -6786646568393493774
+    second: Tree|CScatter_convert_Box002|Take 001|BaseLayer
+  - first:
+      74: -1047661680483604350
+    second: Tree|CScatter_convert_Box003|Take 001|BaseLayer
+  - first:
+      74: -8488157030999035646
+    second: Tree|CScatter_convert_Box004|Take 001|BaseLayer
+  - first:
+      74: 8852966960808971482
+    second: Tree|CScatter_convert_Box005|Take 001|BaseLayer
+  - first:
+      74: 8545353646763332094
+    second: Tree|CScatter_convert_Box006|Take 001|BaseLayer
+  - first:
+      74: -5337076262276482659
+    second: Tree|CScatter_convert_Box007|Take 001|BaseLayer
+  - first:
+      74: 748570499933210006
+    second: Tree|CScatter_convert_Box008|Take 001|BaseLayer
+  - first:
+      74: 676629919947377842
+    second: Tree|CScatter_convert_Box009|Take 001|BaseLayer
+  - first:
+      74: 4341409375470657009
+    second: Tree|CScatter_convert_Box010|Take 001|BaseLayer
+  - first:
+      74: -8083290734459162845
+    second: Tree|CScatter_convert_Box011|Take 001|BaseLayer
+  - first:
+      74: 7662575280573926223
+    second: Tree|CScatter_convert_Box012|Take 001|BaseLayer
+  - first:
+      74: 7661527006343563749
+    second: Tree|CScatter_convert_Box013|Take 001|BaseLayer
+  - first:
+      74: -5192500851976378112
+    second: Tree|CScatter_convert_Box014|Take 001|BaseLayer
+  - first:
+      74: 3782619748891111007
+    second: Tree|CScatter_convert_Box015|Take 001|BaseLayer
+  - first:
+      74: -1731890098211021794
+    second: Tree|CScatter_convert_Box016|Take 001|BaseLayer
+  - first:
+      74: 5673351246089635793
+    second: Tree|CScatter_convert_Box017|Take 001|BaseLayer
+  - first:
+      74: 9066945096783248919
+    second: Tree|CScatter_convert_Box018|Take 001|BaseLayer
+  - first:
+      74: 5047959711467817295
+    second: Tree|CScatter_convert_Box019|Take 001|BaseLayer
+  - first:
+      74: 1838956698873997435
+    second: Tree|CScatter_convert_Box020|Take 001|BaseLayer
+  - first:
+      74: 1954976184635440985
+    second: Tree|CScatter_convert_Box021|Take 001|BaseLayer
+  - first:
+      74: -5346414394887225095
+    second: Tree|CScatter_convert_Box022|Take 001|BaseLayer
+  - first:
+      74: -1545374155226105802
+    second: Tree|CScatter_convert_Box023|Take 001|BaseLayer
+  - first:
+      74: -7124181767991329800
+    second: Tree|CScatter_convert_Box024|Take 001|BaseLayer
+  - first:
+      74: 8537160749871398204
+    second: Tree|CScatter_convert_Box025|Take 001|BaseLayer
+  - first:
+      74: -3548260331479068534
+    second: Tree|CScatter_convert_Box026|Take 001|BaseLayer
+  - first:
+      74: 8821091479762257882
+    second: Tree|CScatter_convert_Box027|Take 001|BaseLayer
+  - first:
+      74: -2069558551820051826
+    second: Tree|CScatter_convert_Box028|Take 001|BaseLayer
+  - first:
+      74: -5429332332765230651
+    second: Tree|CScatter_convert_Box029|Take 001|BaseLayer
+  - first:
+      74: 4645911033157234187
+    second: Tree|CScatter_convert_Box030|Take 001|BaseLayer
+  - first:
+      74: 8948450327922307249
+    second: Tree|CScatter_convert_Box031|Take 001|BaseLayer
+  - first:
+      74: -833077770570078063
+    second: Tree|CScatter_convert_Box032|Take 001|BaseLayer
+  - first:
+      74: -6142988766896393416
+    second: Tree|CScatter_convert_Box033|Take 001|BaseLayer
+  - first:
+      74: 4285212814553555791
+    second: Tree|CScatter_convert_Box034|Take 001|BaseLayer
+  - first:
+      74: 7106480335936037453
+    second: Tree|CScatter_convert_Box035|Take 001|BaseLayer
+  - first:
+      74: -5028160780254671087
+    second: Tree|CScatter_convert_Box036|Take 001|BaseLayer
+  - first:
+      74: -5744749634975358169
+    second: Tree|CScatter_convert_Box037|Take 001|BaseLayer
+  - first:
+      74: 6574525436510283956
+    second: Tree|CScatter_convert_Box038|Take 001|BaseLayer
+  - first:
+      74: 1108373491681904448
+    second: Tree|CScatter_convert_Box039|Take 001|BaseLayer
+  - first:
+      74: -8820150097465896752
+    second: Tree|CScatter_convert_Box040|Take 001|BaseLayer
+  - first:
+      74: -1761642769352261460
+    second: Tree|CScatter_convert_Box041|Take 001|BaseLayer
+  - first:
+      74: -8700590531514098029
+    second: Tree|CScatter_convert_Box042|Take 001|BaseLayer
+  - first:
+      74: 3406072303876483107
+    second: Tree|CScatter_convert_Box043|Take 001|BaseLayer
+  - first:
+      74: 2017471472564332308
+    second: Tree|CScatter_convert_Box044|Take 001|BaseLayer
+  - first:
+      74: -2672756795061834443
+    second: Tree|CScatter_convert_Box045|Take 001|BaseLayer
+  - first:
+      74: -2217416433416306708
+    second: Tree|CScatter_convert_Box046|Take 001|BaseLayer
+  - first:
+      74: 5529637012856990484
+    second: Tree|CScatter_convert_Box047|Take 001|BaseLayer
+  - first:
+      74: 3382911100513437212
+    second: Tree|CScatter_convert_Box048|Take 001|BaseLayer
+  - first:
+      74: -4145891995835088930
+    second: Tree|CScatter_convert_Box049|Take 001|BaseLayer
+  - first:
+      74: 2735265213469704014
+    second: Tree|CScatter_convert_Box050|Take 001|BaseLayer
+  - first:
+      74: -7615596740420578229
+    second: Tree|CScatter_convert_Box051|Take 001|BaseLayer
+  - first:
+      74: 3372832133530457978
+    second: Tree|CScatter_convert_Box052|Take 001|BaseLayer
+  - first:
+      74: -3828048753293985766
+    second: Tree|CScatter_convert_Box053|Take 001|BaseLayer
+  - first:
+      74: -8045740500210867718
+    second: Tree|CScatter_convert_Box054|Take 001|BaseLayer
+  - first:
+      74: -6569454412786605390
+    second: Tree|CScatter_convert_Box055|Take 001|BaseLayer
+  - first:
+      74: -5396093687324427122
+    second: Tree|CScatter_convert_Box056|Take 001|BaseLayer
+  - first:
+      74: 4371806382130033438
+    second: Tree|CScatter_convert_Box057|Take 001|BaseLayer
+  - first:
+      74: -2915870436066203288
+    second: Tree|CScatter_convert_Box058|Take 001|BaseLayer
+  - first:
+      74: -4329584307464411155
+    second: Tree|CScatter_convert_Box059|Take 001|BaseLayer
+  - first:
+      74: -5196800735109017063
+    second: Tree|CScatter_convert_Box060|Take 001|BaseLayer
+  - first:
+      74: -1568882064894331822
+    second: Tree|CScatter_convert_Box061|Take 001|BaseLayer
+  - first:
+      74: 8497772287132051936
+    second: Tree|CScatter_convert_Box062|Take 001|BaseLayer
+  - first:
+      74: -8092707608753881051
+    second: Tree|CScatter_convert_Box063|Take 001|BaseLayer
+  - first:
+      74: 4033903813722309609
+    second: Tree|CScatter_convert_Box064|Take 001|BaseLayer
+  - first:
+      74: 9115471878473318271
+    second: Tree|CScatter_convert_Box065|Take 001|BaseLayer
+  - first:
+      74: -2821330592329936687
+    second: Tree|CScatter_convert_Box066|Take 001|BaseLayer
+  - first:
+      74: 72494964803378337
+    second: Tree|CScatter_convert_Box067|Take 001|BaseLayer
+  - first:
+      74: -1032626839921802365
+    second: Tree|CScatter_convert_Box068|Take 001|BaseLayer
+  - first:
+      74: -8148791464386712826
+    second: Tree|CScatter_convert_Box069|Take 001|BaseLayer
+  - first:
+      74: -8232484759603187823
+    second: Tree|CScatter_convert_Box070|Take 001|BaseLayer
+  - first:
+      74: -3732232361881257539
+    second: Tree|CScatter_convert_Box071|Take 001|BaseLayer
+  - first:
+      74: 7314151492560321195
+    second: Tree|CScatter_convert_Box072|Take 001|BaseLayer
+  - first:
+      74: -6143922968315758175
+    second: Tree|CScatter_convert_Box073|Take 001|BaseLayer
+  - first:
+      74: -8540723007795500748
+    second: Tree|CScatter_convert_Box074|Take 001|BaseLayer
+  - first:
+      74: 3231674977819490660
+    second: Tree|CScatter_convert_Box075|Take 001|BaseLayer
+  - first:
+      74: -9173329379021491953
+    second: Tree|CScatter_convert_Box076|Take 001|BaseLayer
+  - first:
+      74: -6447728492507925160
+    second: Tree|CScatter_convert_Box077|Take 001|BaseLayer
+  - first:
+      74: -7525066992452589163
+    second: Tree|CScatter_convert_Box078|Take 001|BaseLayer
+  - first:
+      74: 6044388689984152250
+    second: Tree|CScatter_convert_Box079|Take 001|BaseLayer
+  - first:
+      74: -7303242524378276048
+    second: Tree|CScatter_convert_Box080|Take 001|BaseLayer
+  - first:
+      74: 3533560913890219147
+    second: Tree|CScatter_convert_Box081|Take 001|BaseLayer
+  - first:
+      74: 1292226007244837884
+    second: Tree|CScatter_convert_Box082|Take 001|BaseLayer
+  - first:
+      74: -6211134548533340108
+    second: Tree|CScatter_convert_Box083|Take 001|BaseLayer
+  - first:
+      74: -6800905867745794974
+    second: Tree|CScatter_convert_Box084|Take 001|BaseLayer
+  - first:
+      74: 4131897208962349491
+    second: Tree|CScatter_convert_Box085|Take 001|BaseLayer
+  - first:
+      74: -3527044027972649088
+    second: Tree|CScatter_convert_Box086|Take 001|BaseLayer
+  - first:
+      74: -550778795203323162
+    second: Tree|CScatter_convert_Box087|Take 001|BaseLayer
+  - first:
+      74: -2549927982173824919
+    second: Tree|CScatter_convert_Box088|Take 001|BaseLayer
+  - first:
+      74: -215904261247553414
+    second: Tree|CScatter_convert_Box089|Take 001|BaseLayer
+  - first:
+      74: 7780388922867007068
+    second: Tree|CScatter_convert_Box090|Take 001|BaseLayer
+  - first:
+      74: -8779122008556086769
+    second: Tree|CScatter_convert_Box091|Take 001|BaseLayer
+  - first:
+      74: -2741414838003845736
+    second: Tree|CScatter_convert_Box092|Take 001|BaseLayer
+  - first:
+      74: 5231615575973272362
+    second: Tree|CScatter_convert_Box093|Take 001|BaseLayer
+  - first:
+      74: 8536154635822174596
+    second: Tree|CScatter_convert_Box094|Take 001|BaseLayer
+  - first:
+      74: 6248121333595461586
+    second: Tree|CScatter_convert_Box095|Take 001|BaseLayer
+  - first:
+      74: 6629207845546637461
+    second: Tree|CScatter_convert_Box096|Take 001|BaseLayer
+  - first:
+      74: -3444483814680613441
+    second: Tree|CScatter_convert_Box097|Take 001|BaseLayer
+  - first:
+      74: -7553667557292001705
+    second: Tree|CScatter_convert_Box098|Take 001|BaseLayer
+  - first:
+      74: 4056655245415797037
+    second: Tree|CScatter_convert_Box099|Take 001|BaseLayer
+  - first:
+      74: 3950912990227315186
+    second: Tree|CScatter_convert_Box1000|Take 001|BaseLayer
+  - first:
+      74: 6208290094014639090
+    second: Tree|CScatter_convert_Box100|Take 001|BaseLayer
+  - first:
+      74: -2047372532542576120
+    second: Tree|CScatter_convert_Box101|Take 001|BaseLayer
+  - first:
+      74: -1170252055469503485
+    second: Tree|CScatter_convert_Box102|Take 001|BaseLayer
+  - first:
+      74: -6016225521875643434
+    second: Tree|CScatter_convert_Box103|Take 001|BaseLayer
+  - first:
+      74: -3785799191602050938
+    second: Tree|CScatter_convert_Box104|Take 001|BaseLayer
+  - first:
+      74: 4582173431904004101
+    second: Tree|CScatter_convert_Box105|Take 001|BaseLayer
+  - first:
+      74: -2209116068299327105
+    second: Tree|CScatter_convert_Box106|Take 001|BaseLayer
+  - first:
+      74: -5392559975938493354
+    second: Tree|CScatter_convert_Box107|Take 001|BaseLayer
+  - first:
+      74: 5092280385183390977
+    second: Tree|CScatter_convert_Box108|Take 001|BaseLayer
+  - first:
+      74: 3181818532596134794
+    second: Tree|CScatter_convert_Box109|Take 001|BaseLayer
+  - first:
+      74: -6519309373063035609
+    second: Tree|CScatter_convert_Box110|Take 001|BaseLayer
+  - first:
+      74: -8149671834038850496
+    second: Tree|CScatter_convert_Box111|Take 001|BaseLayer
+  - first:
+      74: 7451371393838955737
+    second: Tree|CScatter_convert_Box112|Take 001|BaseLayer
+  - first:
+      74: 6354959766462871497
+    second: Tree|CScatter_convert_Box113|Take 001|BaseLayer
+  - first:
+      74: 8492478441391790071
+    second: Tree|CScatter_convert_Box114|Take 001|BaseLayer
+  - first:
+      74: 6048115669934636906
+    second: Tree|CScatter_convert_Box115|Take 001|BaseLayer
+  - first:
+      74: 6210897752980020435
+    second: Tree|CScatter_convert_Box116|Take 001|BaseLayer
+  - first:
+      74: -127975993891127488
+    second: Tree|CScatter_convert_Box117|Take 001|BaseLayer
+  - first:
+      74: -267748798386675912
+    second: Tree|CScatter_convert_Box118|Take 001|BaseLayer
+  - first:
+      74: -3469333844234740015
+    second: Tree|CScatter_convert_Box119|Take 001|BaseLayer
+  - first:
+      74: 548722767487273489
+    second: Tree|CScatter_convert_Box120|Take 001|BaseLayer
+  - first:
+      74: -5630646859543256274
+    second: Tree|CScatter_convert_Box121|Take 001|BaseLayer
+  - first:
+      74: -8010232154000913638
+    second: Tree|CScatter_convert_Box122|Take 001|BaseLayer
+  - first:
+      74: 3514192755038296349
+    second: Tree|CScatter_convert_Box123|Take 001|BaseLayer
+  - first:
+      74: 6605247610028611781
+    second: Tree|CScatter_convert_Box124|Take 001|BaseLayer
+  - first:
+      74: 4700834807415694948
+    second: Tree|CScatter_convert_Box125|Take 001|BaseLayer
+  - first:
+      74: 3681072847172740308
+    second: Tree|CScatter_convert_Box126|Take 001|BaseLayer
+  - first:
+      74: 7638595925950333158
+    second: Tree|CScatter_convert_Box127|Take 001|BaseLayer
+  - first:
+      74: 538225686546448226
+    second: Tree|CScatter_convert_Box128|Take 001|BaseLayer
+  - first:
+      74: -6903127779877717641
+    second: Tree|CScatter_convert_Box129|Take 001|BaseLayer
+  - first:
+      74: -8986775574976087167
+    second: Tree|CScatter_convert_Box130|Take 001|BaseLayer
+  - first:
+      74: 8472452383496509462
+    second: Tree|CScatter_convert_Box131|Take 001|BaseLayer
+  - first:
+      74: -7043499146971078332
+    second: Tree|CScatter_convert_Box132|Take 001|BaseLayer
+  - first:
+      74: 1151414208849944445
+    second: Tree|CScatter_convert_Box133|Take 001|BaseLayer
+  - first:
+      74: 6169361161477720968
+    second: Tree|CScatter_convert_Box134|Take 001|BaseLayer
+  - first:
+      74: 5782767590297576142
+    second: Tree|CScatter_convert_Box135|Take 001|BaseLayer
+  - first:
+      74: -1283804310774497468
+    second: Tree|CScatter_convert_Box136|Take 001|BaseLayer
+  - first:
+      74: 6594202080602090405
+    second: Tree|CScatter_convert_Box137|Take 001|BaseLayer
+  - first:
+      74: -5196094359006017356
+    second: Tree|CScatter_convert_Box138|Take 001|BaseLayer
+  - first:
+      74: -1131072147150679196
+    second: Tree|CScatter_convert_Box139|Take 001|BaseLayer
+  - first:
+      74: -2751123872455422817
+    second: Tree|CScatter_convert_Box140|Take 001|BaseLayer
+  - first:
+      74: 5932745463927000115
+    second: Tree|CScatter_convert_Box141|Take 001|BaseLayer
+  - first:
+      74: 3401472010850822100
+    second: Tree|CScatter_convert_Box142|Take 001|BaseLayer
+  - first:
+      74: 789727110628043785
+    second: Tree|CScatter_convert_Box143|Take 001|BaseLayer
+  - first:
+      74: 2393754613932506402
+    second: Tree|CScatter_convert_Box144|Take 001|BaseLayer
+  - first:
+      74: -5309322857282760326
+    second: Tree|CScatter_convert_Box145|Take 001|BaseLayer
+  - first:
+      74: -3203692516659909748
+    second: Tree|CScatter_convert_Box146|Take 001|BaseLayer
+  - first:
+      74: -9058686140956748652
+    second: Tree|CScatter_convert_Box147|Take 001|BaseLayer
+  - first:
+      74: 5801049924589905376
+    second: Tree|CScatter_convert_Box148|Take 001|BaseLayer
+  - first:
+      74: 7521000070090917646
+    second: Tree|CScatter_convert_Box149|Take 001|BaseLayer
+  - first:
+      74: 8568009702052396799
+    second: Tree|CScatter_convert_Box150|Take 001|BaseLayer
+  - first:
+      74: -4935840996412829256
+    second: Tree|CScatter_convert_Box151|Take 001|BaseLayer
+  - first:
+      74: 300912731466980422
+    second: Tree|CScatter_convert_Box152|Take 001|BaseLayer
+  - first:
+      74: 752929777756760985
+    second: Tree|CScatter_convert_Box153|Take 001|BaseLayer
+  - first:
+      74: 4967773480710820165
+    second: Tree|CScatter_convert_Box154|Take 001|BaseLayer
+  - first:
+      74: 7081029364503095984
+    second: Tree|CScatter_convert_Box155|Take 001|BaseLayer
+  - first:
+      74: -5378332542038534356
+    second: Tree|CScatter_convert_Box156|Take 001|BaseLayer
+  - first:
+      74: -4156284758763854127
+    second: Tree|CScatter_convert_Box157|Take 001|BaseLayer
+  - first:
+      74: 6818936973858830457
+    second: Tree|CScatter_convert_Box158|Take 001|BaseLayer
+  - first:
+      74: -2932923977051226233
+    second: Tree|CScatter_convert_Box159|Take 001|BaseLayer
+  - first:
+      74: 696947345518551811
+    second: Tree|CScatter_convert_Box160|Take 001|BaseLayer
+  - first:
+      74: -8930648733351752513
+    second: Tree|CScatter_convert_Box161|Take 001|BaseLayer
+  - first:
+      74: 3998786869266300582
+    second: Tree|CScatter_convert_Box162|Take 001|BaseLayer
+  - first:
+      74: -164147994249861444
+    second: Tree|CScatter_convert_Box163|Take 001|BaseLayer
+  - first:
+      74: 6433982953301645368
+    second: Tree|CScatter_convert_Box164|Take 001|BaseLayer
+  - first:
+      74: 2656869263565335436
+    second: Tree|CScatter_convert_Box165|Take 001|BaseLayer
+  - first:
+      74: -2327164151352657450
+    second: Tree|CScatter_convert_Box166|Take 001|BaseLayer
+  - first:
+      74: -7346932622835814019
+    second: Tree|CScatter_convert_Box167|Take 001|BaseLayer
+  - first:
+      74: -3229299363317025587
+    second: Tree|CScatter_convert_Box168|Take 001|BaseLayer
+  - first:
+      74: 5779760545277664813
+    second: Tree|CScatter_convert_Box169|Take 001|BaseLayer
+  - first:
+      74: 4233136655067736964
+    second: Tree|CScatter_convert_Box170|Take 001|BaseLayer
+  - first:
+      74: 2301427946051387163
+    second: Tree|CScatter_convert_Box171|Take 001|BaseLayer
+  - first:
+      74: -8722187748899404711
+    second: Tree|CScatter_convert_Box172|Take 001|BaseLayer
+  - first:
+      74: 6738786865223593967
+    second: Tree|CScatter_convert_Box173|Take 001|BaseLayer
+  - first:
+      74: 392219890346038929
+    second: Tree|CScatter_convert_Box174|Take 001|BaseLayer
+  - first:
+      74: -102487984670285677
+    second: Tree|CScatter_convert_Box175|Take 001|BaseLayer
+  - first:
+      74: -1449685176328922771
+    second: Tree|CScatter_convert_Box176|Take 001|BaseLayer
+  - first:
+      74: -1356938513124050523
+    second: Tree|CScatter_convert_Box177|Take 001|BaseLayer
+  - first:
+      74: 97951094128286071
+    second: Tree|CScatter_convert_Box178|Take 001|BaseLayer
+  - first:
+      74: 9015702575452412104
+    second: Tree|CScatter_convert_Box179|Take 001|BaseLayer
+  - first:
+      74: 5719670047852252634
+    second: Tree|CScatter_convert_Box180|Take 001|BaseLayer
+  - first:
+      74: 7625407001917712091
+    second: Tree|CScatter_convert_Box181|Take 001|BaseLayer
+  - first:
+      74: -8875858395642242877
+    second: Tree|CScatter_convert_Box182|Take 001|BaseLayer
+  - first:
+      74: -5999472103858932640
+    second: Tree|CScatter_convert_Box183|Take 001|BaseLayer
+  - first:
+      74: 8360844287788182769
+    second: Tree|CScatter_convert_Box184|Take 001|BaseLayer
+  - first:
+      74: 7064627327917408444
+    second: Tree|CScatter_convert_Box185|Take 001|BaseLayer
+  - first:
+      74: -8920260793419346232
+    second: Tree|CScatter_convert_Box186|Take 001|BaseLayer
+  - first:
+      74: -5880089751932686746
+    second: Tree|CScatter_convert_Box187|Take 001|BaseLayer
+  - first:
+      74: -6747182483429481294
+    second: Tree|CScatter_convert_Box188|Take 001|BaseLayer
+  - first:
+      74: -2974652993554266687
+    second: Tree|CScatter_convert_Box189|Take 001|BaseLayer
+  - first:
+      74: -2028301109964993638
+    second: Tree|CScatter_convert_Box190|Take 001|BaseLayer
+  - first:
+      74: 4805984517533636186
+    second: Tree|CScatter_convert_Box191|Take 001|BaseLayer
+  - first:
+      74: 1103758611386499067
+    second: Tree|CScatter_convert_Box192|Take 001|BaseLayer
+  - first:
+      74: 5340227977219104057
+    second: Tree|CScatter_convert_Box193|Take 001|BaseLayer
+  - first:
+      74: 1849690215140450002
+    second: Tree|CScatter_convert_Box194|Take 001|BaseLayer
+  - first:
+      74: -7259495875739331713
+    second: Tree|CScatter_convert_Box195|Take 001|BaseLayer
+  - first:
+      74: 7914771093948056959
+    second: Tree|CScatter_convert_Box196|Take 001|BaseLayer
+  - first:
+      74: 465654447114421406
+    second: Tree|CScatter_convert_Box197|Take 001|BaseLayer
+  - first:
+      74: -8828967485479347037
+    second: Tree|CScatter_convert_Box198|Take 001|BaseLayer
+  - first:
+      74: -3723785193921486402
+    second: Tree|CScatter_convert_Box199|Take 001|BaseLayer
+  - first:
+      74: -4966500298047198227
+    second: Tree|CScatter_convert_Box200|Take 001|BaseLayer
+  - first:
+      74: -1642071796923097615
+    second: Tree|CScatter_convert_Box201|Take 001|BaseLayer
+  - first:
+      74: 3562134138715462164
+    second: Tree|CScatter_convert_Box202|Take 001|BaseLayer
+  - first:
+      74: -3420607893896713980
+    second: Tree|CScatter_convert_Box203|Take 001|BaseLayer
+  - first:
+      74: -4169026706506286540
+    second: Tree|CScatter_convert_Box204|Take 001|BaseLayer
+  - first:
+      74: 6588481963913330239
+    second: Tree|CScatter_convert_Box205|Take 001|BaseLayer
+  - first:
+      74: -8799291370757881162
+    second: Tree|CScatter_convert_Box206|Take 001|BaseLayer
+  - first:
+      74: -2594631913981103681
+    second: Tree|CScatter_convert_Box207|Take 001|BaseLayer
+  - first:
+      74: -7966130014927695108
+    second: Tree|CScatter_convert_Box208|Take 001|BaseLayer
+  - first:
+      74: 2460613765512169364
+    second: Tree|CScatter_convert_Box209|Take 001|BaseLayer
+  - first:
+      74: 4778644370225308448
+    second: Tree|CScatter_convert_Box210|Take 001|BaseLayer
+  - first:
+      74: -4644167801260238462
+    second: Tree|CScatter_convert_Box211|Take 001|BaseLayer
+  - first:
+      74: 7284953116476123589
+    second: Tree|CScatter_convert_Box212|Take 001|BaseLayer
+  - first:
+      74: -1638415018302068564
+    second: Tree|CScatter_convert_Box213|Take 001|BaseLayer
+  - first:
+      74: 6383330256093531484
+    second: Tree|CScatter_convert_Box214|Take 001|BaseLayer
+  - first:
+      74: 2203229863696147589
+    second: Tree|CScatter_convert_Box215|Take 001|BaseLayer
+  - first:
+      74: 2779491589558652442
+    second: Tree|CScatter_convert_Box216|Take 001|BaseLayer
+  - first:
+      74: 5932084092570998259
+    second: Tree|CScatter_convert_Box217|Take 001|BaseLayer
+  - first:
+      74: 6178749925387400432
+    second: Tree|CScatter_convert_Box218|Take 001|BaseLayer
+  - first:
+      74: -4676422866271448691
+    second: Tree|CScatter_convert_Box219|Take 001|BaseLayer
+  - first:
+      74: -3743083076780044223
+    second: Tree|CScatter_convert_Box220|Take 001|BaseLayer
+  - first:
+      74: -8266169477188958816
+    second: Tree|CScatter_convert_Box221|Take 001|BaseLayer
+  - first:
+      74: -4175048855958081317
+    second: Tree|CScatter_convert_Box222|Take 001|BaseLayer
+  - first:
+      74: -4657722396009925299
+    second: Tree|CScatter_convert_Box223|Take 001|BaseLayer
+  - first:
+      74: 4772821286443742727
+    second: Tree|CScatter_convert_Box224|Take 001|BaseLayer
+  - first:
+      74: 606455586838647657
+    second: Tree|CScatter_convert_Box225|Take 001|BaseLayer
+  - first:
+      74: 3990899741122340292
+    second: Tree|CScatter_convert_Box226|Take 001|BaseLayer
+  - first:
+      74: 9071715828776529062
+    second: Tree|CScatter_convert_Box227|Take 001|BaseLayer
+  - first:
+      74: 6568101579331000324
+    second: Tree|CScatter_convert_Box228|Take 001|BaseLayer
+  - first:
+      74: -5213955895104175060
+    second: Tree|CScatter_convert_Box229|Take 001|BaseLayer
+  - first:
+      74: 403906791220193602
+    second: Tree|CScatter_convert_Box230|Take 001|BaseLayer
+  - first:
+      74: 7786643516656059105
+    second: Tree|CScatter_convert_Box231|Take 001|BaseLayer
+  - first:
+      74: 9009510575920382727
+    second: Tree|CScatter_convert_Box232|Take 001|BaseLayer
+  - first:
+      74: -9127473125730826019
+    second: Tree|CScatter_convert_Box233|Take 001|BaseLayer
+  - first:
+      74: -3091414857731213399
+    second: Tree|CScatter_convert_Box234|Take 001|BaseLayer
+  - first:
+      74: 8877164946557649495
+    second: Tree|CScatter_convert_Box235|Take 001|BaseLayer
+  - first:
+      74: 733760422259265667
+    second: Tree|CScatter_convert_Box236|Take 001|BaseLayer
+  - first:
+      74: -5616486398238450346
+    second: Tree|CScatter_convert_Box237|Take 001|BaseLayer
+  - first:
+      74: -4577139224391649803
+    second: Tree|CScatter_convert_Box238|Take 001|BaseLayer
+  - first:
+      74: 4454337002426568960
+    second: Tree|CScatter_convert_Box239|Take 001|BaseLayer
+  - first:
+      74: -5663065446130352185
+    second: Tree|CScatter_convert_Box240|Take 001|BaseLayer
+  - first:
+      74: -221433013341986140
+    second: Tree|CScatter_convert_Box241|Take 001|BaseLayer
+  - first:
+      74: 3555302412291435681
+    second: Tree|CScatter_convert_Box242|Take 001|BaseLayer
+  - first:
+      74: -5100105429573989526
+    second: Tree|CScatter_convert_Box243|Take 001|BaseLayer
+  - first:
+      74: -6613133994479806447
+    second: Tree|CScatter_convert_Box244|Take 001|BaseLayer
+  - first:
+      74: -8793699102254745644
+    second: Tree|CScatter_convert_Box245|Take 001|BaseLayer
+  - first:
+      74: -1917580747631920420
+    second: Tree|CScatter_convert_Box246|Take 001|BaseLayer
+  - first:
+      74: -2276295626924747765
+    second: Tree|CScatter_convert_Box247|Take 001|BaseLayer
+  - first:
+      74: 3257351064087105593
+    second: Tree|CScatter_convert_Box248|Take 001|BaseLayer
+  - first:
+      74: -6702350008885763652
+    second: Tree|CScatter_convert_Box249|Take 001|BaseLayer
+  - first:
+      74: -4848770323962971799
+    second: Tree|CScatter_convert_Box250|Take 001|BaseLayer
+  - first:
+      74: 4875859656071087864
+    second: Tree|CScatter_convert_Box251|Take 001|BaseLayer
+  - first:
+      74: -7247351205456549645
+    second: Tree|CScatter_convert_Box252|Take 001|BaseLayer
+  - first:
+      74: -3995136472926820331
+    second: Tree|CScatter_convert_Box253|Take 001|BaseLayer
+  - first:
+      74: 2030226649730464082
+    second: Tree|CScatter_convert_Box254|Take 001|BaseLayer
+  - first:
+      74: -4790034526657474354
+    second: Tree|CScatter_convert_Box255|Take 001|BaseLayer
+  - first:
+      74: 9120689199950591175
+    second: Tree|CScatter_convert_Box256|Take 001|BaseLayer
+  - first:
+      74: 2047733244651700669
+    second: Tree|CScatter_convert_Box257|Take 001|BaseLayer
+  - first:
+      74: 1529485961685808300
+    second: Tree|CScatter_convert_Box258|Take 001|BaseLayer
+  - first:
+      74: -3324433767995221221
+    second: Tree|CScatter_convert_Box259|Take 001|BaseLayer
+  - first:
+      74: 5091248289797284559
+    second: Tree|CScatter_convert_Box260|Take 001|BaseLayer
+  - first:
+      74: -2124672688186215073
+    second: Tree|CScatter_convert_Box261|Take 001|BaseLayer
+  - first:
+      74: -4152305506036292156
+    second: Tree|CScatter_convert_Box262|Take 001|BaseLayer
+  - first:
+      74: -8417655542500971598
+    second: Tree|CScatter_convert_Box263|Take 001|BaseLayer
+  - first:
+      74: -2613656351576448467
+    second: Tree|CScatter_convert_Box264|Take 001|BaseLayer
+  - first:
+      74: 8078457344412144815
+    second: Tree|CScatter_convert_Box265|Take 001|BaseLayer
+  - first:
+      74: 7845165761102326354
+    second: Tree|CScatter_convert_Box266|Take 001|BaseLayer
+  - first:
+      74: 714623654421261744
+    second: Tree|CScatter_convert_Box267|Take 001|BaseLayer
+  - first:
+      74: 7789619986371865053
+    second: Tree|CScatter_convert_Box268|Take 001|BaseLayer
+  - first:
+      74: 1979358256237578964
+    second: Tree|CScatter_convert_Box269|Take 001|BaseLayer
+  - first:
+      74: 7761435551675830033
+    second: Tree|CScatter_convert_Box270|Take 001|BaseLayer
+  - first:
+      74: -1808550542757148036
+    second: Tree|CScatter_convert_Box271|Take 001|BaseLayer
+  - first:
+      74: 3203732229664339173
+    second: Tree|CScatter_convert_Box272|Take 001|BaseLayer
+  - first:
+      74: -1775048691413319465
+    second: Tree|CScatter_convert_Box273|Take 001|BaseLayer
+  - first:
+      74: 5792633478465397594
+    second: Tree|CScatter_convert_Box274|Take 001|BaseLayer
+  - first:
+      74: -901684125271848186
+    second: Tree|CScatter_convert_Box275|Take 001|BaseLayer
+  - first:
+      74: 9125677629029563485
+    second: Tree|CScatter_convert_Box276|Take 001|BaseLayer
+  - first:
+      74: 4043451793437158586
+    second: Tree|CScatter_convert_Box277|Take 001|BaseLayer
+  - first:
+      74: 6402710558618924500
+    second: Tree|CScatter_convert_Box278|Take 001|BaseLayer
+  - first:
+      74: -6234454966863555096
+    second: Tree|CScatter_convert_Box279|Take 001|BaseLayer
+  - first:
+      74: -8788547868098304176
+    second: Tree|CScatter_convert_Box280|Take 001|BaseLayer
+  - first:
+      74: 2145692164257552367
+    second: Tree|CScatter_convert_Box281|Take 001|BaseLayer
+  - first:
+      74: -3086638607958937860
+    second: Tree|CScatter_convert_Box282|Take 001|BaseLayer
+  - first:
+      74: 5270557979079894358
+    second: Tree|CScatter_convert_Box283|Take 001|BaseLayer
+  - first:
+      74: 7373084162596208896
+    second: Tree|CScatter_convert_Box284|Take 001|BaseLayer
+  - first:
+      74: -9001099121443033849
+    second: Tree|CScatter_convert_Box285|Take 001|BaseLayer
+  - first:
+      74: 7012651465174642363
+    second: Tree|CScatter_convert_Box286|Take 001|BaseLayer
+  - first:
+      74: -505766035761094008
+    second: Tree|CScatter_convert_Box287|Take 001|BaseLayer
+  - first:
+      74: 4932771087554708837
+    second: Tree|CScatter_convert_Box288|Take 001|BaseLayer
+  - first:
+      74: -6355384823516961438
+    second: Tree|CScatter_convert_Box289|Take 001|BaseLayer
+  - first:
+      74: 8572527186134250374
+    second: Tree|CScatter_convert_Box290|Take 001|BaseLayer
+  - first:
+      74: 3900869428896704786
+    second: Tree|CScatter_convert_Box291|Take 001|BaseLayer
+  - first:
+      74: 8778161414656424191
+    second: Tree|CScatter_convert_Box292|Take 001|BaseLayer
+  - first:
+      74: -3421528145525085038
+    second: Tree|CScatter_convert_Box293|Take 001|BaseLayer
+  - first:
+      74: -2124862042454637289
+    second: Tree|CScatter_convert_Box294|Take 001|BaseLayer
+  - first:
+      74: 2080081365042043558
+    second: Tree|CScatter_convert_Box295|Take 001|BaseLayer
+  - first:
+      74: -944101874530818393
+    second: Tree|CScatter_convert_Box296|Take 001|BaseLayer
+  - first:
+      74: 3998155632699164592
+    second: Tree|CScatter_convert_Box297|Take 001|BaseLayer
+  - first:
+      74: 7370966324926958869
+    second: Tree|CScatter_convert_Box298|Take 001|BaseLayer
+  - first:
+      74: 4317772886296285638
+    second: Tree|CScatter_convert_Box299|Take 001|BaseLayer
+  - first:
+      74: 2930243891815450224
+    second: Tree|CScatter_convert_Box300|Take 001|BaseLayer
+  - first:
+      74: -3376993967512618624
+    second: Tree|CScatter_convert_Box301|Take 001|BaseLayer
+  - first:
+      74: -975621818822899644
+    second: Tree|CScatter_convert_Box302|Take 001|BaseLayer
+  - first:
+      74: -2765955114402250426
+    second: Tree|CScatter_convert_Box303|Take 001|BaseLayer
+  - first:
+      74: 4079093453240842984
+    second: Tree|CScatter_convert_Box304|Take 001|BaseLayer
+  - first:
+      74: -5665292251470300852
+    second: Tree|CScatter_convert_Box305|Take 001|BaseLayer
+  - first:
+      74: -3907163527483795047
+    second: Tree|CScatter_convert_Box306|Take 001|BaseLayer
+  - first:
+      74: -2012573368237665993
+    second: Tree|CScatter_convert_Box307|Take 001|BaseLayer
+  - first:
+      74: 8089928683081931554
+    second: Tree|CScatter_convert_Box308|Take 001|BaseLayer
+  - first:
+      74: 1085769496284918046
+    second: Tree|CScatter_convert_Box309|Take 001|BaseLayer
+  - first:
+      74: 8474596184207206875
+    second: Tree|CScatter_convert_Box310|Take 001|BaseLayer
+  - first:
+      74: 6344239170534469054
+    second: Tree|CScatter_convert_Box311|Take 001|BaseLayer
+  - first:
+      74: 6571709305716831703
+    second: Tree|CScatter_convert_Box312|Take 001|BaseLayer
+  - first:
+      74: 7755298872996370231
+    second: Tree|CScatter_convert_Box313|Take 001|BaseLayer
+  - first:
+      74: 855999523764874530
+    second: Tree|CScatter_convert_Box314|Take 001|BaseLayer
+  - first:
+      74: -7619726280830522471
+    second: Tree|CScatter_convert_Box315|Take 001|BaseLayer
+  - first:
+      74: 1746517594314607319
+    second: Tree|CScatter_convert_Box316|Take 001|BaseLayer
+  - first:
+      74: 1197063011607574907
+    second: Tree|CScatter_convert_Box317|Take 001|BaseLayer
+  - first:
+      74: -8518692244451628872
+    second: Tree|CScatter_convert_Box318|Take 001|BaseLayer
+  - first:
+      74: -1089920935185943814
+    second: Tree|CScatter_convert_Box319|Take 001|BaseLayer
+  - first:
+      74: -7274930168908373244
+    second: Tree|CScatter_convert_Box320|Take 001|BaseLayer
+  - first:
+      74: -8439760884075170812
+    second: Tree|CScatter_convert_Box321|Take 001|BaseLayer
+  - first:
+      74: 724574182885392836
+    second: Tree|CScatter_convert_Box322|Take 001|BaseLayer
+  - first:
+      74: -8567874741841234926
+    second: Tree|CScatter_convert_Box323|Take 001|BaseLayer
+  - first:
+      74: -5476878619145494667
+    second: Tree|CScatter_convert_Box324|Take 001|BaseLayer
+  - first:
+      74: -7829023033665812103
+    second: Tree|CScatter_convert_Box325|Take 001|BaseLayer
+  - first:
+      74: 8349173873456383909
+    second: Tree|CScatter_convert_Box326|Take 001|BaseLayer
+  - first:
+      74: -3829820703839537928
+    second: Tree|CScatter_convert_Box327|Take 001|BaseLayer
+  - first:
+      74: 1025281558233699101
+    second: Tree|CScatter_convert_Box328|Take 001|BaseLayer
+  - first:
+      74: -8775471598821218581
+    second: Tree|CScatter_convert_Box329|Take 001|BaseLayer
+  - first:
+      74: 770648708504455209
+    second: Tree|CScatter_convert_Box330|Take 001|BaseLayer
+  - first:
+      74: -7394897923588868078
+    second: Tree|CScatter_convert_Box331|Take 001|BaseLayer
+  - first:
+      74: -7956168743833927872
+    second: Tree|CScatter_convert_Box332|Take 001|BaseLayer
+  - first:
+      74: 3855114908248009711
+    second: Tree|CScatter_convert_Box333|Take 001|BaseLayer
+  - first:
+      74: 3392213338907949621
+    second: Tree|CScatter_convert_Box334|Take 001|BaseLayer
+  - first:
+      74: 8527137619550664986
+    second: Tree|CScatter_convert_Box335|Take 001|BaseLayer
+  - first:
+      74: 6264343609783174903
+    second: Tree|CScatter_convert_Box336|Take 001|BaseLayer
+  - first:
+      74: -8974301560798840617
+    second: Tree|CScatter_convert_Box337|Take 001|BaseLayer
+  - first:
+      74: 1548876194796851557
+    second: Tree|CScatter_convert_Box338|Take 001|BaseLayer
+  - first:
+      74: 5443150578981756805
+    second: Tree|CScatter_convert_Box339|Take 001|BaseLayer
+  - first:
+      74: -2850433278472974429
+    second: Tree|CScatter_convert_Box340|Take 001|BaseLayer
+  - first:
+      74: 3386035131242724991
+    second: Tree|CScatter_convert_Box341|Take 001|BaseLayer
+  - first:
+      74: 2331967509268380595
+    second: Tree|CScatter_convert_Box342|Take 001|BaseLayer
+  - first:
+      74: -4434180579660582260
+    second: Tree|CScatter_convert_Box343|Take 001|BaseLayer
+  - first:
+      74: 7431078091998811
+    second: Tree|CScatter_convert_Box344|Take 001|BaseLayer
+  - first:
+      74: -6329468613078267390
+    second: Tree|CScatter_convert_Box345|Take 001|BaseLayer
+  - first:
+      74: 5897027669922469381
+    second: Tree|CScatter_convert_Box346|Take 001|BaseLayer
+  - first:
+      74: 637280329718287000
+    second: Tree|CScatter_convert_Box347|Take 001|BaseLayer
+  - first:
+      74: -5843506395469080040
+    second: Tree|CScatter_convert_Box348|Take 001|BaseLayer
+  - first:
+      74: 830578161249464844
+    second: Tree|CScatter_convert_Box349|Take 001|BaseLayer
+  - first:
+      74: -934575276425982394
+    second: Tree|CScatter_convert_Box350|Take 001|BaseLayer
+  - first:
+      74: 6745990769819020409
+    second: Tree|CScatter_convert_Box351|Take 001|BaseLayer
+  - first:
+      74: 3026106758153963096
+    second: Tree|CScatter_convert_Box352|Take 001|BaseLayer
+  - first:
+      74: -1485076320885008797
+    second: Tree|CScatter_convert_Box353|Take 001|BaseLayer
+  - first:
+      74: -5409758104589644568
+    second: Tree|CScatter_convert_Box354|Take 001|BaseLayer
+  - first:
+      74: 5141218304619312268
+    second: Tree|CScatter_convert_Box355|Take 001|BaseLayer
+  - first:
+      74: 5924348920290998278
+    second: Tree|CScatter_convert_Box356|Take 001|BaseLayer
+  - first:
+      74: -7384060099220831729
+    second: Tree|CScatter_convert_Box357|Take 001|BaseLayer
+  - first:
+      74: 1838682265048309752
+    second: Tree|CScatter_convert_Box358|Take 001|BaseLayer
+  - first:
+      74: -4886302344682628655
+    second: Tree|CScatter_convert_Box359|Take 001|BaseLayer
+  - first:
+      74: -4974480848788352207
+    second: Tree|CScatter_convert_Box360|Take 001|BaseLayer
+  - first:
+      74: -4217402003311551584
+    second: Tree|CScatter_convert_Box361|Take 001|BaseLayer
+  - first:
+      74: -3354130467962624739
+    second: Tree|CScatter_convert_Box362|Take 001|BaseLayer
+  - first:
+      74: -739089522044579412
+    second: Tree|CScatter_convert_Box363|Take 001|BaseLayer
+  - first:
+      74: -6380140270465014320
+    second: Tree|CScatter_convert_Box364|Take 001|BaseLayer
+  - first:
+      74: 3724023339915150202
+    second: Tree|CScatter_convert_Box365|Take 001|BaseLayer
+  - first:
+      74: -5644991654922123001
+    second: Tree|CScatter_convert_Box366|Take 001|BaseLayer
+  - first:
+      74: -9136665066706900121
+    second: Tree|CScatter_convert_Box367|Take 001|BaseLayer
+  - first:
+      74: -4514806800753788385
+    second: Tree|CScatter_convert_Box368|Take 001|BaseLayer
+  - first:
+      74: 6907494115454708802
+    second: Tree|CScatter_convert_Box369|Take 001|BaseLayer
+  - first:
+      74: 8603466822214758116
+    second: Tree|CScatter_convert_Box370|Take 001|BaseLayer
+  - first:
+      74: -3791408306313961060
+    second: Tree|CScatter_convert_Box371|Take 001|BaseLayer
+  - first:
+      74: -5445963926361062781
+    second: Tree|CScatter_convert_Box372|Take 001|BaseLayer
+  - first:
+      74: 2615475766383019360
+    second: Tree|CScatter_convert_Box373|Take 001|BaseLayer
+  - first:
+      74: -7931878162746899580
+    second: Tree|CScatter_convert_Box374|Take 001|BaseLayer
+  - first:
+      74: 3810502825705380694
+    second: Tree|CScatter_convert_Box375|Take 001|BaseLayer
+  - first:
+      74: 5062854397825213523
+    second: Tree|CScatter_convert_Box376|Take 001|BaseLayer
+  - first:
+      74: -5209095372147221414
+    second: Tree|CScatter_convert_Box377|Take 001|BaseLayer
+  - first:
+      74: 1609185144411726774
+    second: Tree|CScatter_convert_Box378|Take 001|BaseLayer
+  - first:
+      74: -1877008321353061986
+    second: Tree|CScatter_convert_Box379|Take 001|BaseLayer
+  - first:
+      74: 2399594126224354797
+    second: Tree|CScatter_convert_Box380|Take 001|BaseLayer
+  - first:
+      74: -5053029842185587098
+    second: Tree|CScatter_convert_Box381|Take 001|BaseLayer
+  - first:
+      74: 4729376082515620683
+    second: Tree|CScatter_convert_Box382|Take 001|BaseLayer
+  - first:
+      74: 5890876262806696554
+    second: Tree|CScatter_convert_Box383|Take 001|BaseLayer
+  - first:
+      74: -9078994302065033727
+    second: Tree|CScatter_convert_Box384|Take 001|BaseLayer
+  - first:
+      74: 9088988868848477158
+    second: Tree|CScatter_convert_Box385|Take 001|BaseLayer
+  - first:
+      74: -8897522008213249906
+    second: Tree|CScatter_convert_Box386|Take 001|BaseLayer
+  - first:
+      74: 5428628099267147149
+    second: Tree|CScatter_convert_Box387|Take 001|BaseLayer
+  - first:
+      74: 550111813812852888
+    second: Tree|CScatter_convert_Box388|Take 001|BaseLayer
+  - first:
+      74: -6393388827319180868
+    second: Tree|CScatter_convert_Box389|Take 001|BaseLayer
+  - first:
+      74: -6191777772582798001
+    second: Tree|CScatter_convert_Box390|Take 001|BaseLayer
+  - first:
+      74: 2611300179370684713
+    second: Tree|CScatter_convert_Box391|Take 001|BaseLayer
+  - first:
+      74: -4626831728895959517
+    second: Tree|CScatter_convert_Box392|Take 001|BaseLayer
+  - first:
+      74: -1782578327675674956
+    second: Tree|CScatter_convert_Box393|Take 001|BaseLayer
+  - first:
+      74: 5581906664961133999
+    second: Tree|CScatter_convert_Box394|Take 001|BaseLayer
+  - first:
+      74: 7407068142792843129
+    second: Tree|CScatter_convert_Box395|Take 001|BaseLayer
+  - first:
+      74: -3055536216785873910
+    second: Tree|CScatter_convert_Box396|Take 001|BaseLayer
+  - first:
+      74: -3179689194401202751
+    second: Tree|CScatter_convert_Box397|Take 001|BaseLayer
+  - first:
+      74: 68237195477765589
+    second: Tree|CScatter_convert_Box398|Take 001|BaseLayer
+  - first:
+      74: 3780267554529086179
+    second: Tree|CScatter_convert_Box399|Take 001|BaseLayer
+  - first:
+      74: -2204463171350705685
+    second: Tree|CScatter_convert_Box400|Take 001|BaseLayer
+  - first:
+      74: 6954811535235990664
+    second: Tree|CScatter_convert_Box401|Take 001|BaseLayer
+  - first:
+      74: 2884935220100074409
+    second: Tree|CScatter_convert_Box402|Take 001|BaseLayer
+  - first:
+      74: 204562104823741767
+    second: Tree|CScatter_convert_Box403|Take 001|BaseLayer
+  - first:
+      74: -2191416201091378980
+    second: Tree|CScatter_convert_Box404|Take 001|BaseLayer
+  - first:
+      74: -4446840896370246432
+    second: Tree|CScatter_convert_Box405|Take 001|BaseLayer
+  - first:
+      74: -3754361665869893753
+    second: Tree|CScatter_convert_Box406|Take 001|BaseLayer
+  - first:
+      74: -4700438687015548373
+    second: Tree|CScatter_convert_Box407|Take 001|BaseLayer
+  - first:
+      74: 8550266285036271541
+    second: Tree|CScatter_convert_Box408|Take 001|BaseLayer
+  - first:
+      74: 1286952040297244670
+    second: Tree|CScatter_convert_Box409|Take 001|BaseLayer
+  - first:
+      74: 7439728307200224831
+    second: Tree|CScatter_convert_Box410|Take 001|BaseLayer
+  - first:
+      74: -3678889128023236580
+    second: Tree|CScatter_convert_Box411|Take 001|BaseLayer
+  - first:
+      74: -7731276546846126370
+    second: Tree|CScatter_convert_Box412|Take 001|BaseLayer
+  - first:
+      74: -7986606203835661283
+    second: Tree|CScatter_convert_Box413|Take 001|BaseLayer
+  - first:
+      74: -5179692991714137076
+    second: Tree|CScatter_convert_Box414|Take 001|BaseLayer
+  - first:
+      74: -5023114505640405202
+    second: Tree|CScatter_convert_Box415|Take 001|BaseLayer
+  - first:
+      74: 2923185386930110102
+    second: Tree|CScatter_convert_Box416|Take 001|BaseLayer
+  - first:
+      74: -7137827977356240759
+    second: Tree|CScatter_convert_Box417|Take 001|BaseLayer
+  - first:
+      74: 5928545431015123097
+    second: Tree|CScatter_convert_Box418|Take 001|BaseLayer
+  - first:
+      74: 1094514486434844918
+    second: Tree|CScatter_convert_Box419|Take 001|BaseLayer
+  - first:
+      74: -6623341559135736017
+    second: Tree|CScatter_convert_Box420|Take 001|BaseLayer
+  - first:
+      74: 1654730953476652593
+    second: Tree|CScatter_convert_Box421|Take 001|BaseLayer
+  - first:
+      74: 9137094644717955198
+    second: Tree|CScatter_convert_Box422|Take 001|BaseLayer
+  - first:
+      74: -5638375546368779822
+    second: Tree|CScatter_convert_Box423|Take 001|BaseLayer
+  - first:
+      74: -1522879630452325382
+    second: Tree|CScatter_convert_Box424|Take 001|BaseLayer
+  - first:
+      74: 4411092855698319943
+    second: Tree|CScatter_convert_Box425|Take 001|BaseLayer
+  - first:
+      74: 7027980861488606919
+    second: Tree|CScatter_convert_Box426|Take 001|BaseLayer
+  - first:
+      74: 3783482813171705768
+    second: Tree|CScatter_convert_Box427|Take 001|BaseLayer
+  - first:
+      74: 2834307864382897134
+    second: Tree|CScatter_convert_Box428|Take 001|BaseLayer
+  - first:
+      74: -3986175952634314908
+    second: Tree|CScatter_convert_Box429|Take 001|BaseLayer
+  - first:
+      74: -3586731187941672587
+    second: Tree|CScatter_convert_Box430|Take 001|BaseLayer
+  - first:
+      74: 3760227704477492281
+    second: Tree|CScatter_convert_Box431|Take 001|BaseLayer
+  - first:
+      74: -7495161179163414387
+    second: Tree|CScatter_convert_Box432|Take 001|BaseLayer
+  - first:
+      74: -4681802035764191507
+    second: Tree|CScatter_convert_Box433|Take 001|BaseLayer
+  - first:
+      74: -2827690039858215949
+    second: Tree|CScatter_convert_Box434|Take 001|BaseLayer
+  - first:
+      74: -3863792269172922044
+    second: Tree|CScatter_convert_Box435|Take 001|BaseLayer
+  - first:
+      74: -3760608911295336411
+    second: Tree|CScatter_convert_Box436|Take 001|BaseLayer
+  - first:
+      74: -3470399018851823530
+    second: Tree|CScatter_convert_Box437|Take 001|BaseLayer
+  - first:
+      74: 354245863438115143
+    second: Tree|CScatter_convert_Box438|Take 001|BaseLayer
+  - first:
+      74: 1508225330800920126
+    second: Tree|CScatter_convert_Box439|Take 001|BaseLayer
+  - first:
+      74: 1386482401697468522
+    second: Tree|CScatter_convert_Box440|Take 001|BaseLayer
+  - first:
+      74: 8675867211107265827
+    second: Tree|CScatter_convert_Box441|Take 001|BaseLayer
+  - first:
+      74: -4402318771853853100
+    second: Tree|CScatter_convert_Box442|Take 001|BaseLayer
+  - first:
+      74: 2253554738589772949
+    second: Tree|CScatter_convert_Box443|Take 001|BaseLayer
+  - first:
+      74: 4038201902256133348
+    second: Tree|CScatter_convert_Box444|Take 001|BaseLayer
+  - first:
+      74: 7575028305458976147
+    second: Tree|CScatter_convert_Box445|Take 001|BaseLayer
+  - first:
+      74: -6458814204229259857
+    second: Tree|CScatter_convert_Box446|Take 001|BaseLayer
+  - first:
+      74: 6520434628377819860
+    second: Tree|CScatter_convert_Box447|Take 001|BaseLayer
+  - first:
+      74: -99874643975849991
+    second: Tree|CScatter_convert_Box448|Take 001|BaseLayer
+  - first:
+      74: 7592603896706197587
+    second: Tree|CScatter_convert_Box449|Take 001|BaseLayer
+  - first:
+      74: 4452953753503493580
+    second: Tree|CScatter_convert_Box450|Take 001|BaseLayer
+  - first:
+      74: -5431255423338786635
+    second: Tree|CScatter_convert_Box451|Take 001|BaseLayer
+  - first:
+      74: 3472886645470781427
+    second: Tree|CScatter_convert_Box452|Take 001|BaseLayer
+  - first:
+      74: 1840563985455206595
+    second: Tree|CScatter_convert_Box453|Take 001|BaseLayer
+  - first:
+      74: 4147398334300990805
+    second: Tree|CScatter_convert_Box454|Take 001|BaseLayer
+  - first:
+      74: 5603562456863310028
+    second: Tree|CScatter_convert_Box455|Take 001|BaseLayer
+  - first:
+      74: 959911372466936228
+    second: Tree|CScatter_convert_Box456|Take 001|BaseLayer
+  - first:
+      74: 520437118236289784
+    second: Tree|CScatter_convert_Box457|Take 001|BaseLayer
+  - first:
+      74: -6197056849604993625
+    second: Tree|CScatter_convert_Box458|Take 001|BaseLayer
+  - first:
+      74: 4445394046484386426
+    second: Tree|CScatter_convert_Box459|Take 001|BaseLayer
+  - first:
+      74: -3527283331756046962
+    second: Tree|CScatter_convert_Box460|Take 001|BaseLayer
+  - first:
+      74: -978677465339925098
+    second: Tree|CScatter_convert_Box461|Take 001|BaseLayer
+  - first:
+      74: -7569879126826758732
+    second: Tree|CScatter_convert_Box462|Take 001|BaseLayer
+  - first:
+      74: -5049201780525665424
+    second: Tree|CScatter_convert_Box463|Take 001|BaseLayer
+  - first:
+      74: -7384916824669018782
+    second: Tree|CScatter_convert_Box464|Take 001|BaseLayer
+  - first:
+      74: 7449515148605836296
+    second: Tree|CScatter_convert_Box465|Take 001|BaseLayer
+  - first:
+      74: 6855356068019384201
+    second: Tree|CScatter_convert_Box466|Take 001|BaseLayer
+  - first:
+      74: 767813482863807704
+    second: Tree|CScatter_convert_Box467|Take 001|BaseLayer
+  - first:
+      74: -4097599805230865122
+    second: Tree|CScatter_convert_Box468|Take 001|BaseLayer
+  - first:
+      74: 4689682449211211063
+    second: Tree|CScatter_convert_Box469|Take 001|BaseLayer
+  - first:
+      74: 5193305023311537377
+    second: Tree|CScatter_convert_Box470|Take 001|BaseLayer
+  - first:
+      74: -7688268019022599160
+    second: Tree|CScatter_convert_Box471|Take 001|BaseLayer
+  - first:
+      74: -95521189779245681
+    second: Tree|CScatter_convert_Box472|Take 001|BaseLayer
+  - first:
+      74: 9078743796694176420
+    second: Tree|CScatter_convert_Box473|Take 001|BaseLayer
+  - first:
+      74: 1783968773874095142
+    second: Tree|CScatter_convert_Box474|Take 001|BaseLayer
+  - first:
+      74: -1685683900496887003
+    second: Tree|CScatter_convert_Box475|Take 001|BaseLayer
+  - first:
+      74: 5367523195880654607
+    second: Tree|CScatter_convert_Box476|Take 001|BaseLayer
+  - first:
+      74: -8716715467970050263
+    second: Tree|CScatter_convert_Box477|Take 001|BaseLayer
+  - first:
+      74: -745977150813509968
+    second: Tree|CScatter_convert_Box478|Take 001|BaseLayer
+  - first:
+      74: -3684098406572907983
+    second: Tree|CScatter_convert_Box479|Take 001|BaseLayer
+  - first:
+      74: -1619474530766105954
+    second: Tree|CScatter_convert_Box480|Take 001|BaseLayer
+  - first:
+      74: -765988154995119147
+    second: Tree|CScatter_convert_Box481|Take 001|BaseLayer
+  - first:
+      74: 3149165425415491063
+    second: Tree|CScatter_convert_Box482|Take 001|BaseLayer
+  - first:
+      74: -2008575872643111751
+    second: Tree|CScatter_convert_Box483|Take 001|BaseLayer
+  - first:
+      74: -7560737015622866897
+    second: Tree|CScatter_convert_Box484|Take 001|BaseLayer
+  - first:
+      74: 1442565055307478166
+    second: Tree|CScatter_convert_Box485|Take 001|BaseLayer
+  - first:
+      74: -7120912949202033732
+    second: Tree|CScatter_convert_Box486|Take 001|BaseLayer
+  - first:
+      74: 7639648599979951140
+    second: Tree|CScatter_convert_Box487|Take 001|BaseLayer
+  - first:
+      74: 6395899197253355776
+    second: Tree|CScatter_convert_Box488|Take 001|BaseLayer
+  - first:
+      74: 8594547969687812117
+    second: Tree|CScatter_convert_Box489|Take 001|BaseLayer
+  - first:
+      74: 5756739561917083752
+    second: Tree|CScatter_convert_Box490|Take 001|BaseLayer
+  - first:
+      74: 8952826112345133478
+    second: Tree|CScatter_convert_Box491|Take 001|BaseLayer
+  - first:
+      74: -1888652915294127356
+    second: Tree|CScatter_convert_Box492|Take 001|BaseLayer
+  - first:
+      74: -6419533459360173557
+    second: Tree|CScatter_convert_Box493|Take 001|BaseLayer
+  - first:
+      74: 1462343552536273727
+    second: Tree|CScatter_convert_Box494|Take 001|BaseLayer
+  - first:
+      74: -956945309143031089
+    second: Tree|CScatter_convert_Box495|Take 001|BaseLayer
+  - first:
+      74: -5958098207780076594
+    second: Tree|CScatter_convert_Box496|Take 001|BaseLayer
+  - first:
+      74: 5749548779385561048
+    second: Tree|CScatter_convert_Box497|Take 001|BaseLayer
+  - first:
+      74: -299566691190262503
+    second: Tree|CScatter_convert_Box498|Take 001|BaseLayer
+  - first:
+      74: 528659642345360078
+    second: Tree|CScatter_convert_Box499|Take 001|BaseLayer
+  - first:
+      74: -2023975696580727293
+    second: Tree|CScatter_convert_Box500|Take 001|BaseLayer
+  - first:
+      74: 4608253527782184339
+    second: Tree|CScatter_convert_Box501|Take 001|BaseLayer
+  - first:
+      74: -5711498555036478986
+    second: Tree|CScatter_convert_Box502|Take 001|BaseLayer
+  - first:
+      74: -4633096734781879135
+    second: Tree|CScatter_convert_Box503|Take 001|BaseLayer
+  - first:
+      74: 6708139937064355253
+    second: Tree|CScatter_convert_Box504|Take 001|BaseLayer
+  - first:
+      74: 2982147652535642696
+    second: Tree|CScatter_convert_Box505|Take 001|BaseLayer
+  - first:
+      74: -7751824073480711820
+    second: Tree|CScatter_convert_Box506|Take 001|BaseLayer
+  - first:
+      74: 3515564907360086318
+    second: Tree|CScatter_convert_Box507|Take 001|BaseLayer
+  - first:
+      74: -4869517533396903937
+    second: Tree|CScatter_convert_Box508|Take 001|BaseLayer
+  - first:
+      74: 8359358581146633045
+    second: Tree|CScatter_convert_Box509|Take 001|BaseLayer
+  - first:
+      74: -5407944779878311117
+    second: Tree|CScatter_convert_Box510|Take 001|BaseLayer
+  - first:
+      74: 6638592584592460309
+    second: Tree|CScatter_convert_Box511|Take 001|BaseLayer
+  - first:
+      74: -523380902383692939
+    second: Tree|CScatter_convert_Box512|Take 001|BaseLayer
+  - first:
+      74: -8487640291793218891
+    second: Tree|CScatter_convert_Box513|Take 001|BaseLayer
+  - first:
+      74: -8510668892660545969
+    second: Tree|CScatter_convert_Box514|Take 001|BaseLayer
+  - first:
+      74: 4972259594037116116
+    second: Tree|CScatter_convert_Box515|Take 001|BaseLayer
+  - first:
+      74: 2540479468546829392
+    second: Tree|CScatter_convert_Box516|Take 001|BaseLayer
+  - first:
+      74: -2052428881286219340
+    second: Tree|CScatter_convert_Box517|Take 001|BaseLayer
+  - first:
+      74: 7844125828451457667
+    second: Tree|CScatter_convert_Box518|Take 001|BaseLayer
+  - first:
+      74: -5153568258815136149
+    second: Tree|CScatter_convert_Box519|Take 001|BaseLayer
+  - first:
+      74: -6638143037375308408
+    second: Tree|CScatter_convert_Box520|Take 001|BaseLayer
+  - first:
+      74: 6773410426266225441
+    second: Tree|CScatter_convert_Box521|Take 001|BaseLayer
+  - first:
+      74: -869702234891808186
+    second: Tree|CScatter_convert_Box522|Take 001|BaseLayer
+  - first:
+      74: 2605757636730722498
+    second: Tree|CScatter_convert_Box523|Take 001|BaseLayer
+  - first:
+      74: -1673626039455430833
+    second: Tree|CScatter_convert_Box524|Take 001|BaseLayer
+  - first:
+      74: 1398206010834068768
+    second: Tree|CScatter_convert_Box525|Take 001|BaseLayer
+  - first:
+      74: 6095741556854451201
+    second: Tree|CScatter_convert_Box526|Take 001|BaseLayer
+  - first:
+      74: -5744627365212821913
+    second: Tree|CScatter_convert_Box527|Take 001|BaseLayer
+  - first:
+      74: 4609471483563377414
+    second: Tree|CScatter_convert_Box528|Take 001|BaseLayer
+  - first:
+      74: -7194036034958324115
+    second: Tree|CScatter_convert_Box529|Take 001|BaseLayer
+  - first:
+      74: -2633321180810588009
+    second: Tree|CScatter_convert_Box530|Take 001|BaseLayer
+  - first:
+      74: -46733830196248012
+    second: Tree|CScatter_convert_Box531|Take 001|BaseLayer
+  - first:
+      74: 6776172718782209077
+    second: Tree|CScatter_convert_Box532|Take 001|BaseLayer
+  - first:
+      74: 4889739120066363324
+    second: Tree|CScatter_convert_Box533|Take 001|BaseLayer
+  - first:
+      74: 7282928325683885561
+    second: Tree|CScatter_convert_Box534|Take 001|BaseLayer
+  - first:
+      74: -1634035435901777796
+    second: Tree|CScatter_convert_Box535|Take 001|BaseLayer
+  - first:
+      74: -8000321093742990512
+    second: Tree|CScatter_convert_Box536|Take 001|BaseLayer
+  - first:
+      74: 7757094835916095550
+    second: Tree|CScatter_convert_Box537|Take 001|BaseLayer
+  - first:
+      74: 3656407221235913670
+    second: Tree|CScatter_convert_Box538|Take 001|BaseLayer
+  - first:
+      74: 8106402263566722440
+    second: Tree|CScatter_convert_Box539|Take 001|BaseLayer
+  - first:
+      74: -8171765859400433660
+    second: Tree|CScatter_convert_Box540|Take 001|BaseLayer
+  - first:
+      74: 2077406136105308359
+    second: Tree|CScatter_convert_Box541|Take 001|BaseLayer
+  - first:
+      74: -6112753592996748051
+    second: Tree|CScatter_convert_Box542|Take 001|BaseLayer
+  - first:
+      74: 1435336557028625843
+    second: Tree|CScatter_convert_Box543|Take 001|BaseLayer
+  - first:
+      74: -4372103940065450989
+    second: Tree|CScatter_convert_Box544|Take 001|BaseLayer
+  - first:
+      74: -7577602827229102937
+    second: Tree|CScatter_convert_Box545|Take 001|BaseLayer
+  - first:
+      74: -4023815997610282572
+    second: Tree|CScatter_convert_Box546|Take 001|BaseLayer
+  - first:
+      74: -413962232839333267
+    second: Tree|CScatter_convert_Box547|Take 001|BaseLayer
+  - first:
+      74: 5180925933937882655
+    second: Tree|CScatter_convert_Box548|Take 001|BaseLayer
+  - first:
+      74: -4755467319722774505
+    second: Tree|CScatter_convert_Box549|Take 001|BaseLayer
+  - first:
+      74: 7175103195225539585
+    second: Tree|CScatter_convert_Box550|Take 001|BaseLayer
+  - first:
+      74: -7392762437552380466
+    second: Tree|CScatter_convert_Box551|Take 001|BaseLayer
+  - first:
+      74: -1191626393412744696
+    second: Tree|CScatter_convert_Box552|Take 001|BaseLayer
+  - first:
+      74: 7177364874289199487
+    second: Tree|CScatter_convert_Box553|Take 001|BaseLayer
+  - first:
+      74: 669793608330639707
+    second: Tree|CScatter_convert_Box554|Take 001|BaseLayer
+  - first:
+      74: 4823829199606421435
+    second: Tree|CScatter_convert_Box555|Take 001|BaseLayer
+  - first:
+      74: -4769204505330091083
+    second: Tree|CScatter_convert_Box556|Take 001|BaseLayer
+  - first:
+      74: 834594944727950360
+    second: Tree|CScatter_convert_Box557|Take 001|BaseLayer
+  - first:
+      74: 5079628456191715158
+    second: Tree|CScatter_convert_Box558|Take 001|BaseLayer
+  - first:
+      74: -7945514676784696584
+    second: Tree|CScatter_convert_Box559|Take 001|BaseLayer
+  - first:
+      74: -6831965048345332809
+    second: Tree|CScatter_convert_Box560|Take 001|BaseLayer
+  - first:
+      74: 4384817559627048219
+    second: Tree|CScatter_convert_Box561|Take 001|BaseLayer
+  - first:
+      74: -4203177868849196740
+    second: Tree|CScatter_convert_Box562|Take 001|BaseLayer
+  - first:
+      74: 1805842666166583186
+    second: Tree|CScatter_convert_Box563|Take 001|BaseLayer
+  - first:
+      74: 7306316550882475091
+    second: Tree|CScatter_convert_Box564|Take 001|BaseLayer
+  - first:
+      74: -510592294984721638
+    second: Tree|CScatter_convert_Box565|Take 001|BaseLayer
+  - first:
+      74: -4296789860102637806
+    second: Tree|CScatter_convert_Box566|Take 001|BaseLayer
+  - first:
+      74: 4470992884271596848
+    second: Tree|CScatter_convert_Box567|Take 001|BaseLayer
+  - first:
+      74: -7000060540809178104
+    second: Tree|CScatter_convert_Box568|Take 001|BaseLayer
+  - first:
+      74: 3271833191056856774
+    second: Tree|CScatter_convert_Box569|Take 001|BaseLayer
+  - first:
+      74: 2543412880101901657
+    second: Tree|CScatter_convert_Box570|Take 001|BaseLayer
+  - first:
+      74: 997784409445218161
+    second: Tree|CScatter_convert_Box571|Take 001|BaseLayer
+  - first:
+      74: -1879781910902538879
+    second: Tree|CScatter_convert_Box572|Take 001|BaseLayer
+  - first:
+      74: 244802746661454018
+    second: Tree|CScatter_convert_Box573|Take 001|BaseLayer
+  - first:
+      74: -8365652054936084725
+    second: Tree|CScatter_convert_Box574|Take 001|BaseLayer
+  - first:
+      74: -6345253396681912906
+    second: Tree|CScatter_convert_Box575|Take 001|BaseLayer
+  - first:
+      74: -3214974888285157497
+    second: Tree|CScatter_convert_Box576|Take 001|BaseLayer
+  - first:
+      74: 562466096243803559
+    second: Tree|CScatter_convert_Box577|Take 001|BaseLayer
+  - first:
+      74: -6039983175904895834
+    second: Tree|CScatter_convert_Box578|Take 001|BaseLayer
+  - first:
+      74: 6146417329888567632
+    second: Tree|CScatter_convert_Box579|Take 001|BaseLayer
+  - first:
+      74: 177717719982060844
+    second: Tree|CScatter_convert_Box580|Take 001|BaseLayer
+  - first:
+      74: 8360920782066403222
+    second: Tree|CScatter_convert_Box581|Take 001|BaseLayer
+  - first:
+      74: -3475898682962701684
+    second: Tree|CScatter_convert_Box582|Take 001|BaseLayer
+  - first:
+      74: -1566508234743773489
+    second: Tree|CScatter_convert_Box583|Take 001|BaseLayer
+  - first:
+      74: -3226315362756807574
+    second: Tree|CScatter_convert_Box584|Take 001|BaseLayer
+  - first:
+      74: 5390787258449964536
+    second: Tree|CScatter_convert_Box585|Take 001|BaseLayer
+  - first:
+      74: 2881373894441251426
+    second: Tree|CScatter_convert_Box586|Take 001|BaseLayer
+  - first:
+      74: 6374142562969243697
+    second: Tree|CScatter_convert_Box587|Take 001|BaseLayer
+  - first:
+      74: 977235150057570901
+    second: Tree|CScatter_convert_Box588|Take 001|BaseLayer
+  - first:
+      74: 5223535855179760538
+    second: Tree|CScatter_convert_Box589|Take 001|BaseLayer
+  - first:
+      74: 6847856880840619908
+    second: Tree|CScatter_convert_Box590|Take 001|BaseLayer
+  - first:
+      74: 4344783441261652034
+    second: Tree|CScatter_convert_Box591|Take 001|BaseLayer
+  - first:
+      74: 7867396274580606524
+    second: Tree|CScatter_convert_Box592|Take 001|BaseLayer
+  - first:
+      74: -500780975060596721
+    second: Tree|CScatter_convert_Box593|Take 001|BaseLayer
+  - first:
+      74: 7878009509568915570
+    second: Tree|CScatter_convert_Box594|Take 001|BaseLayer
+  - first:
+      74: -9180110936579874206
+    second: Tree|CScatter_convert_Box595|Take 001|BaseLayer
+  - first:
+      74: -8992094734954592625
+    second: Tree|CScatter_convert_Box596|Take 001|BaseLayer
+  - first:
+      74: -8306265162830797592
+    second: Tree|CScatter_convert_Box597|Take 001|BaseLayer
+  - first:
+      74: 6187989088795933944
+    second: Tree|CScatter_convert_Box598|Take 001|BaseLayer
+  - first:
+      74: 1283659813607478828
+    second: Tree|CScatter_convert_Box599|Take 001|BaseLayer
+  - first:
+      74: 2000879027302758861
+    second: Tree|CScatter_convert_Box600|Take 001|BaseLayer
+  - first:
+      74: -3851832369113152692
+    second: Tree|CScatter_convert_Box601|Take 001|BaseLayer
+  - first:
+      74: -4456236342904868
+    second: Tree|CScatter_convert_Box602|Take 001|BaseLayer
+  - first:
+      74: 652049255633161787
+    second: Tree|CScatter_convert_Box603|Take 001|BaseLayer
+  - first:
+      74: -6769122219108540434
+    second: Tree|CScatter_convert_Box604|Take 001|BaseLayer
+  - first:
+      74: -8696438206829092750
+    second: Tree|CScatter_convert_Box605|Take 001|BaseLayer
+  - first:
+      74: 1851240131157381469
+    second: Tree|CScatter_convert_Box606|Take 001|BaseLayer
+  - first:
+      74: -4507157910717777958
+    second: Tree|CScatter_convert_Box607|Take 001|BaseLayer
+  - first:
+      74: -6319702584583578822
+    second: Tree|CScatter_convert_Box608|Take 001|BaseLayer
+  - first:
+      74: -6281206074093019235
+    second: Tree|CScatter_convert_Box609|Take 001|BaseLayer
+  - first:
+      74: -835210953901372734
+    second: Tree|CScatter_convert_Box610|Take 001|BaseLayer
+  - first:
+      74: -1926894791159755899
+    second: Tree|CScatter_convert_Box611|Take 001|BaseLayer
+  - first:
+      74: 8807817066179783998
+    second: Tree|CScatter_convert_Box612|Take 001|BaseLayer
+  - first:
+      74: -69210460784755503
+    second: Tree|CScatter_convert_Box613|Take 001|BaseLayer
+  - first:
+      74: -7036701918720076534
+    second: Tree|CScatter_convert_Box614|Take 001|BaseLayer
+  - first:
+      74: 3187206972437606790
+    second: Tree|CScatter_convert_Box615|Take 001|BaseLayer
+  - first:
+      74: 7296550317896443350
+    second: Tree|CScatter_convert_Box616|Take 001|BaseLayer
+  - first:
+      74: 5297693731429899901
+    second: Tree|CScatter_convert_Box617|Take 001|BaseLayer
+  - first:
+      74: 1182687003989128085
+    second: Tree|CScatter_convert_Box618|Take 001|BaseLayer
+  - first:
+      74: 7683237850346834468
+    second: Tree|CScatter_convert_Box619|Take 001|BaseLayer
+  - first:
+      74: 3578452962752574446
+    second: Tree|CScatter_convert_Box620|Take 001|BaseLayer
+  - first:
+      74: 4037761277346498448
+    second: Tree|CScatter_convert_Box621|Take 001|BaseLayer
+  - first:
+      74: 8364189153817387104
+    second: Tree|CScatter_convert_Box622|Take 001|BaseLayer
+  - first:
+      74: 3994915626395828315
+    second: Tree|CScatter_convert_Box623|Take 001|BaseLayer
+  - first:
+      74: 4553241823439791804
+    second: Tree|CScatter_convert_Box624|Take 001|BaseLayer
+  - first:
+      74: -3284692402630545492
+    second: Tree|CScatter_convert_Box625|Take 001|BaseLayer
+  - first:
+      74: 369636872779915830
+    second: Tree|CScatter_convert_Box626|Take 001|BaseLayer
+  - first:
+      74: -2389698599038842286
+    second: Tree|CScatter_convert_Box627|Take 001|BaseLayer
+  - first:
+      74: -6099463131794312691
+    second: Tree|CScatter_convert_Box628|Take 001|BaseLayer
+  - first:
+      74: -7817437919760763148
+    second: Tree|CScatter_convert_Box629|Take 001|BaseLayer
+  - first:
+      74: 2919661256141677280
+    second: Tree|CScatter_convert_Box630|Take 001|BaseLayer
+  - first:
+      74: -3786272155863254740
+    second: Tree|CScatter_convert_Box631|Take 001|BaseLayer
+  - first:
+      74: 6895708980306599246
+    second: Tree|CScatter_convert_Box632|Take 001|BaseLayer
+  - first:
+      74: 1295396400891480694
+    second: Tree|CScatter_convert_Box633|Take 001|BaseLayer
+  - first:
+      74: 4273781702634272891
+    second: Tree|CScatter_convert_Box634|Take 001|BaseLayer
+  - first:
+      74: -7843373640378836178
+    second: Tree|CScatter_convert_Box635|Take 001|BaseLayer
+  - first:
+      74: -7381711839113843821
+    second: Tree|CScatter_convert_Box636|Take 001|BaseLayer
+  - first:
+      74: 371837384027575059
+    second: Tree|CScatter_convert_Box637|Take 001|BaseLayer
+  - first:
+      74: 455813843975485470
+    second: Tree|CScatter_convert_Box638|Take 001|BaseLayer
+  - first:
+      74: 7334417989339664990
+    second: Tree|CScatter_convert_Box639|Take 001|BaseLayer
+  - first:
+      74: 5317121014785367446
+    second: Tree|CScatter_convert_Box640|Take 001|BaseLayer
+  - first:
+      74: -4569780877526694151
+    second: Tree|CScatter_convert_Box641|Take 001|BaseLayer
+  - first:
+      74: -8088309500177061384
+    second: Tree|CScatter_convert_Box642|Take 001|BaseLayer
+  - first:
+      74: -848032144102315937
+    second: Tree|CScatter_convert_Box643|Take 001|BaseLayer
+  - first:
+      74: -144790983947066947
+    second: Tree|CScatter_convert_Box644|Take 001|BaseLayer
+  - first:
+      74: -7202955006949361882
+    second: Tree|CScatter_convert_Box645|Take 001|BaseLayer
+  - first:
+      74: 3185325212038693593
+    second: Tree|CScatter_convert_Box646|Take 001|BaseLayer
+  - first:
+      74: -8185742645430847748
+    second: Tree|CScatter_convert_Box647|Take 001|BaseLayer
+  - first:
+      74: 6790308615907011467
+    second: Tree|CScatter_convert_Box648|Take 001|BaseLayer
+  - first:
+      74: -4295873772993449161
+    second: Tree|CScatter_convert_Box649|Take 001|BaseLayer
+  - first:
+      74: 8642012002583120225
+    second: Tree|CScatter_convert_Box650|Take 001|BaseLayer
+  - first:
+      74: 441739864786484882
+    second: Tree|CScatter_convert_Box651|Take 001|BaseLayer
+  - first:
+      74: 5444061840108450625
+    second: Tree|CScatter_convert_Box652|Take 001|BaseLayer
+  - first:
+      74: -7431700525731521900
+    second: Tree|CScatter_convert_Box653|Take 001|BaseLayer
+  - first:
+      74: -6918385240044189807
+    second: Tree|CScatter_convert_Box654|Take 001|BaseLayer
+  - first:
+      74: 4700469971437945759
+    second: Tree|CScatter_convert_Box655|Take 001|BaseLayer
+  - first:
+      74: -3872977283695930615
+    second: Tree|CScatter_convert_Box656|Take 001|BaseLayer
+  - first:
+      74: -8741382342449468986
+    second: Tree|CScatter_convert_Box657|Take 001|BaseLayer
+  - first:
+      74: -5370929437467730145
+    second: Tree|CScatter_convert_Box658|Take 001|BaseLayer
+  - first:
+      74: 8794775541966501155
+    second: Tree|CScatter_convert_Box659|Take 001|BaseLayer
+  - first:
+      74: 411220327076254642
+    second: Tree|CScatter_convert_Box660|Take 001|BaseLayer
+  - first:
+      74: 596274010533797309
+    second: Tree|CScatter_convert_Box661|Take 001|BaseLayer
+  - first:
+      74: -1255899750464483106
+    second: Tree|CScatter_convert_Box662|Take 001|BaseLayer
+  - first:
+      74: -1916567760357194872
+    second: Tree|CScatter_convert_Box663|Take 001|BaseLayer
+  - first:
+      74: -7570695616856163367
+    second: Tree|CScatter_convert_Box664|Take 001|BaseLayer
+  - first:
+      74: 1429195654739300761
+    second: Tree|CScatter_convert_Box665|Take 001|BaseLayer
+  - first:
+      74: 6462661071078567354
+    second: Tree|CScatter_convert_Box666|Take 001|BaseLayer
+  - first:
+      74: 1335431031255427318
+    second: Tree|CScatter_convert_Box667|Take 001|BaseLayer
+  - first:
+      74: 5230576588614179114
+    second: Tree|CScatter_convert_Box668|Take 001|BaseLayer
+  - first:
+      74: -5643152251681046338
+    second: Tree|CScatter_convert_Box669|Take 001|BaseLayer
+  - first:
+      74: 7565066121054123663
+    second: Tree|CScatter_convert_Box670|Take 001|BaseLayer
+  - first:
+      74: 1329814428192097599
+    second: Tree|CScatter_convert_Box671|Take 001|BaseLayer
+  - first:
+      74: 8689629573482111709
+    second: Tree|CScatter_convert_Box672|Take 001|BaseLayer
+  - first:
+      74: 5880462671748851113
+    second: Tree|CScatter_convert_Box673|Take 001|BaseLayer
+  - first:
+      74: -2037679875316305336
+    second: Tree|CScatter_convert_Box674|Take 001|BaseLayer
+  - first:
+      74: 4426474973915311854
+    second: Tree|CScatter_convert_Box675|Take 001|BaseLayer
+  - first:
+      74: 4625674049511504306
+    second: Tree|CScatter_convert_Box676|Take 001|BaseLayer
+  - first:
+      74: -8069212792544507014
+    second: Tree|CScatter_convert_Box677|Take 001|BaseLayer
+  - first:
+      74: 541089437444187852
+    second: Tree|CScatter_convert_Box678|Take 001|BaseLayer
+  - first:
+      74: 3363337380568615116
+    second: Tree|CScatter_convert_Box679|Take 001|BaseLayer
+  - first:
+      74: -7570440563264757386
+    second: Tree|CScatter_convert_Box680|Take 001|BaseLayer
+  - first:
+      74: -4525840997599634186
+    second: Tree|CScatter_convert_Box681|Take 001|BaseLayer
+  - first:
+      74: 8858223053491784273
+    second: Tree|CScatter_convert_Box682|Take 001|BaseLayer
+  - first:
+      74: 1268877496021812102
+    second: Tree|CScatter_convert_Box683|Take 001|BaseLayer
+  - first:
+      74: 7973771843617729133
+    second: Tree|CScatter_convert_Box684|Take 001|BaseLayer
+  - first:
+      74: -4686497781898108313
+    second: Tree|CScatter_convert_Box685|Take 001|BaseLayer
+  - first:
+      74: -4911940206778207568
+    second: Tree|CScatter_convert_Box686|Take 001|BaseLayer
+  - first:
+      74: 7566916053035156452
+    second: Tree|CScatter_convert_Box687|Take 001|BaseLayer
+  - first:
+      74: -2211897109253224977
+    second: Tree|CScatter_convert_Box688|Take 001|BaseLayer
+  - first:
+      74: 639495909040373636
+    second: Tree|CScatter_convert_Box689|Take 001|BaseLayer
+  - first:
+      74: 8002377108644657444
+    second: Tree|CScatter_convert_Box690|Take 001|BaseLayer
+  - first:
+      74: -8785256206765793875
+    second: Tree|CScatter_convert_Box691|Take 001|BaseLayer
+  - first:
+      74: -3975719905314087187
+    second: Tree|CScatter_convert_Box692|Take 001|BaseLayer
+  - first:
+      74: 6438619269173997532
+    second: Tree|CScatter_convert_Box693|Take 001|BaseLayer
+  - first:
+      74: -2861503823068485103
+    second: Tree|CScatter_convert_Box694|Take 001|BaseLayer
+  - first:
+      74: 6734907799446391242
+    second: Tree|CScatter_convert_Box695|Take 001|BaseLayer
+  - first:
+      74: 4622112675727044867
+    second: Tree|CScatter_convert_Box696|Take 001|BaseLayer
+  - first:
+      74: -8192373032568937834
+    second: Tree|CScatter_convert_Box697|Take 001|BaseLayer
+  - first:
+      74: -7254210473484574882
+    second: Tree|CScatter_convert_Box698|Take 001|BaseLayer
+  - first:
+      74: -6137658906359618005
+    second: Tree|CScatter_convert_Box699|Take 001|BaseLayer
+  - first:
+      74: 8024725765936174265
+    second: Tree|CScatter_convert_Box700|Take 001|BaseLayer
+  - first:
+      74: -7464381600827263015
+    second: Tree|CScatter_convert_Box701|Take 001|BaseLayer
+  - first:
+      74: -5246528459826147773
+    second: Tree|CScatter_convert_Box702|Take 001|BaseLayer
+  - first:
+      74: 148040414225272007
+    second: Tree|CScatter_convert_Box703|Take 001|BaseLayer
+  - first:
+      74: -2644296811333646492
+    second: Tree|CScatter_convert_Box704|Take 001|BaseLayer
+  - first:
+      74: -7726820380804223361
+    second: Tree|CScatter_convert_Box705|Take 001|BaseLayer
+  - first:
+      74: 102080801330699913
+    second: Tree|CScatter_convert_Box706|Take 001|BaseLayer
+  - first:
+      74: 4217854790439414604
+    second: Tree|CScatter_convert_Box707|Take 001|BaseLayer
+  - first:
+      74: -6365094963813368359
+    second: Tree|CScatter_convert_Box708|Take 001|BaseLayer
+  - first:
+      74: -8733719886471593689
+    second: Tree|CScatter_convert_Box709|Take 001|BaseLayer
+  - first:
+      74: 9222167478265747516
+    second: Tree|CScatter_convert_Box710|Take 001|BaseLayer
+  - first:
+      74: -3398438861830323732
+    second: Tree|CScatter_convert_Box711|Take 001|BaseLayer
+  - first:
+      74: 6620936750161459116
+    second: Tree|CScatter_convert_Box712|Take 001|BaseLayer
+  - first:
+      74: 2954710423907895007
+    second: Tree|CScatter_convert_Box713|Take 001|BaseLayer
+  - first:
+      74: 249716896841562223
+    second: Tree|CScatter_convert_Box714|Take 001|BaseLayer
+  - first:
+      74: 8546783039772243880
+    second: Tree|CScatter_convert_Box715|Take 001|BaseLayer
+  - first:
+      74: 7919621205406201479
+    second: Tree|CScatter_convert_Box716|Take 001|BaseLayer
+  - first:
+      74: -5166051824985124822
+    second: Tree|CScatter_convert_Box717|Take 001|BaseLayer
+  - first:
+      74: -982102900344147962
+    second: Tree|CScatter_convert_Box718|Take 001|BaseLayer
+  - first:
+      74: 2139572201406895637
+    second: Tree|CScatter_convert_Box719|Take 001|BaseLayer
+  - first:
+      74: -2444329075134043894
+    second: Tree|CScatter_convert_Box720|Take 001|BaseLayer
+  - first:
+      74: 8431397694816493048
+    second: Tree|CScatter_convert_Box721|Take 001|BaseLayer
+  - first:
+      74: 2076141945530564410
+    second: Tree|CScatter_convert_Box722|Take 001|BaseLayer
+  - first:
+      74: 3178910278494248626
+    second: Tree|CScatter_convert_Box723|Take 001|BaseLayer
+  - first:
+      74: 554997654618759585
+    second: Tree|CScatter_convert_Box724|Take 001|BaseLayer
+  - first:
+      74: -7171403158891619249
+    second: Tree|CScatter_convert_Box725|Take 001|BaseLayer
+  - first:
+      74: -3082550641210438171
+    second: Tree|CScatter_convert_Box726|Take 001|BaseLayer
+  - first:
+      74: -73783939651948374
+    second: Tree|CScatter_convert_Box727|Take 001|BaseLayer
+  - first:
+      74: 1643557005574502858
+    second: Tree|CScatter_convert_Box728|Take 001|BaseLayer
+  - first:
+      74: -6364133665313719415
+    second: Tree|CScatter_convert_Box729|Take 001|BaseLayer
+  - first:
+      74: -1381689105594482031
+    second: Tree|CScatter_convert_Box730|Take 001|BaseLayer
+  - first:
+      74: -7866154218941147665
+    second: Tree|CScatter_convert_Box731|Take 001|BaseLayer
+  - first:
+      74: 4495748076206130867
+    second: Tree|CScatter_convert_Box732|Take 001|BaseLayer
+  - first:
+      74: -5257529370710605534
+    second: Tree|CScatter_convert_Box733|Take 001|BaseLayer
+  - first:
+      74: -5110938557536213252
+    second: Tree|CScatter_convert_Box734|Take 001|BaseLayer
+  - first:
+      74: 517226737244200996
+    second: Tree|CScatter_convert_Box735|Take 001|BaseLayer
+  - first:
+      74: -8160935331577404421
+    second: Tree|CScatter_convert_Box736|Take 001|BaseLayer
+  - first:
+      74: -1996583472278476949
+    second: Tree|CScatter_convert_Box737|Take 001|BaseLayer
+  - first:
+      74: -4990671520304043713
+    second: Tree|CScatter_convert_Box738|Take 001|BaseLayer
+  - first:
+      74: -3339299314825896592
+    second: Tree|CScatter_convert_Box739|Take 001|BaseLayer
+  - first:
+      74: -3011999528812506097
+    second: Tree|CScatter_convert_Box740|Take 001|BaseLayer
+  - first:
+      74: 1580511757009467168
+    second: Tree|CScatter_convert_Box741|Take 001|BaseLayer
+  - first:
+      74: -8323247070711943917
+    second: Tree|CScatter_convert_Box742|Take 001|BaseLayer
+  - first:
+      74: 2579689722963020831
+    second: Tree|CScatter_convert_Box743|Take 001|BaseLayer
+  - first:
+      74: -5415659006032118893
+    second: Tree|CScatter_convert_Box744|Take 001|BaseLayer
+  - first:
+      74: -659718822310294504
+    second: Tree|CScatter_convert_Box745|Take 001|BaseLayer
+  - first:
+      74: -437914205515126646
+    second: Tree|CScatter_convert_Box746|Take 001|BaseLayer
+  - first:
+      74: -4209862231982405578
+    second: Tree|CScatter_convert_Box747|Take 001|BaseLayer
+  - first:
+      74: -1979541571799353426
+    second: Tree|CScatter_convert_Box748|Take 001|BaseLayer
+  - first:
+      74: -466987412200417795
+    second: Tree|CScatter_convert_Box749|Take 001|BaseLayer
+  - first:
+      74: -6790499750621629828
+    second: Tree|CScatter_convert_Box750|Take 001|BaseLayer
+  - first:
+      74: 1350420663963580617
+    second: Tree|CScatter_convert_Box751|Take 001|BaseLayer
+  - first:
+      74: 8401601670207488417
+    second: Tree|CScatter_convert_Box752|Take 001|BaseLayer
+  - first:
+      74: 8646417277223567736
+    second: Tree|CScatter_convert_Box753|Take 001|BaseLayer
+  - first:
+      74: 6540641030754436750
+    second: Tree|CScatter_convert_Box754|Take 001|BaseLayer
+  - first:
+      74: -8190746523456036024
+    second: Tree|CScatter_convert_Box755|Take 001|BaseLayer
+  - first:
+      74: 8170082459621097183
+    second: Tree|CScatter_convert_Box756|Take 001|BaseLayer
+  - first:
+      74: -7701894920898329103
+    second: Tree|CScatter_convert_Box757|Take 001|BaseLayer
+  - first:
+      74: -6041550098237820031
+    second: Tree|CScatter_convert_Box758|Take 001|BaseLayer
+  - first:
+      74: -4121542772491536979
+    second: Tree|CScatter_convert_Box759|Take 001|BaseLayer
+  - first:
+      74: -8370225825920537251
+    second: Tree|CScatter_convert_Box760|Take 001|BaseLayer
+  - first:
+      74: -7498077240773921240
+    second: Tree|CScatter_convert_Box761|Take 001|BaseLayer
+  - first:
+      74: -223005216877049109
+    second: Tree|CScatter_convert_Box762|Take 001|BaseLayer
+  - first:
+      74: -8147674350638578326
+    second: Tree|CScatter_convert_Box763|Take 001|BaseLayer
+  - first:
+      74: 7993886893359149668
+    second: Tree|CScatter_convert_Box764|Take 001|BaseLayer
+  - first:
+      74: -6985744690410056792
+    second: Tree|CScatter_convert_Box765|Take 001|BaseLayer
+  - first:
+      74: 3433983871478769527
+    second: Tree|CScatter_convert_Box766|Take 001|BaseLayer
+  - first:
+      74: -2580254037232793813
+    second: Tree|CScatter_convert_Box767|Take 001|BaseLayer
+  - first:
+      74: -1365845760888346819
+    second: Tree|CScatter_convert_Box768|Take 001|BaseLayer
+  - first:
+      74: 5751422796111986368
+    second: Tree|CScatter_convert_Box769|Take 001|BaseLayer
+  - first:
+      74: 4553447840727620266
+    second: Tree|CScatter_convert_Box770|Take 001|BaseLayer
+  - first:
+      74: -3315880836302119055
+    second: Tree|CScatter_convert_Box771|Take 001|BaseLayer
+  - first:
+      74: -8922398297893755547
+    second: Tree|CScatter_convert_Box772|Take 001|BaseLayer
+  - first:
+      74: 5489719480439008744
+    second: Tree|CScatter_convert_Box773|Take 001|BaseLayer
+  - first:
+      74: -4104767901699757903
+    second: Tree|CScatter_convert_Box774|Take 001|BaseLayer
+  - first:
+      74: -8706511334981729363
+    second: Tree|CScatter_convert_Box775|Take 001|BaseLayer
+  - first:
+      74: -2475206043272356057
+    second: Tree|CScatter_convert_Box776|Take 001|BaseLayer
+  - first:
+      74: 279400925581474653
+    second: Tree|CScatter_convert_Box777|Take 001|BaseLayer
+  - first:
+      74: -7274655628432766829
+    second: Tree|CScatter_convert_Box778|Take 001|BaseLayer
+  - first:
+      74: -2844132064052468630
+    second: Tree|CScatter_convert_Box779|Take 001|BaseLayer
+  - first:
+      74: -207997895000829114
+    second: Tree|CScatter_convert_Box780|Take 001|BaseLayer
+  - first:
+      74: -174817433486376574
+    second: Tree|CScatter_convert_Box781|Take 001|BaseLayer
+  - first:
+      74: 5370045233067976362
+    second: Tree|CScatter_convert_Box782|Take 001|BaseLayer
+  - first:
+      74: 6469925968362723175
+    second: Tree|CScatter_convert_Box783|Take 001|BaseLayer
+  - first:
+      74: -7935013778901183262
+    second: Tree|CScatter_convert_Box784|Take 001|BaseLayer
+  - first:
+      74: -1922256717858355396
+    second: Tree|CScatter_convert_Box785|Take 001|BaseLayer
+  - first:
+      74: 168886687700393806
+    second: Tree|CScatter_convert_Box786|Take 001|BaseLayer
+  - first:
+      74: 8633725891519425164
+    second: Tree|CScatter_convert_Box787|Take 001|BaseLayer
+  - first:
+      74: 9087996145014987782
+    second: Tree|CScatter_convert_Box788|Take 001|BaseLayer
+  - first:
+      74: 6771389638182492282
+    second: Tree|CScatter_convert_Box789|Take 001|BaseLayer
+  - first:
+      74: -835492692789144804
+    second: Tree|CScatter_convert_Box790|Take 001|BaseLayer
+  - first:
+      74: 5694589175823749354
+    second: Tree|CScatter_convert_Box791|Take 001|BaseLayer
+  - first:
+      74: 6726649158636827610
+    second: Tree|CScatter_convert_Box792|Take 001|BaseLayer
+  - first:
+      74: -7518064262964434053
+    second: Tree|CScatter_convert_Box793|Take 001|BaseLayer
+  - first:
+      74: -4806171972485518659
+    second: Tree|CScatter_convert_Box794|Take 001|BaseLayer
+  - first:
+      74: 6372734130937510199
+    second: Tree|CScatter_convert_Box795|Take 001|BaseLayer
+  - first:
+      74: 1105634952068716418
+    second: Tree|CScatter_convert_Box796|Take 001|BaseLayer
+  - first:
+      74: 7373077851428429999
+    second: Tree|CScatter_convert_Box797|Take 001|BaseLayer
+  - first:
+      74: 4356616798835625113
+    second: Tree|CScatter_convert_Box798|Take 001|BaseLayer
+  - first:
+      74: 4112250197225709501
+    second: Tree|CScatter_convert_Box799|Take 001|BaseLayer
+  - first:
+      74: -2085685663168622578
+    second: Tree|CScatter_convert_Box800|Take 001|BaseLayer
+  - first:
+      74: -4495009751067564670
+    second: Tree|CScatter_convert_Box801|Take 001|BaseLayer
+  - first:
+      74: 1041427315968043480
+    second: Tree|CScatter_convert_Box802|Take 001|BaseLayer
+  - first:
+      74: -3099109121236100621
+    second: Tree|CScatter_convert_Box803|Take 001|BaseLayer
+  - first:
+      74: 1250066517701178670
+    second: Tree|CScatter_convert_Box804|Take 001|BaseLayer
+  - first:
+      74: -6247854693394972783
+    second: Tree|CScatter_convert_Box805|Take 001|BaseLayer
+  - first:
+      74: 2782654263153209535
+    second: Tree|CScatter_convert_Box806|Take 001|BaseLayer
+  - first:
+      74: 7872806976058812234
+    second: Tree|CScatter_convert_Box807|Take 001|BaseLayer
+  - first:
+      74: 3073935053892731443
+    second: Tree|CScatter_convert_Box808|Take 001|BaseLayer
+  - first:
+      74: -6893377820415886855
+    second: Tree|CScatter_convert_Box809|Take 001|BaseLayer
+  - first:
+      74: 1481288439006207134
+    second: Tree|CScatter_convert_Box810|Take 001|BaseLayer
+  - first:
+      74: -5453364169086426633
+    second: Tree|CScatter_convert_Box811|Take 001|BaseLayer
+  - first:
+      74: 3487032824727145613
+    second: Tree|CScatter_convert_Box812|Take 001|BaseLayer
+  - first:
+      74: -6553092293282459358
+    second: Tree|CScatter_convert_Box813|Take 001|BaseLayer
+  - first:
+      74: -4400792547304249629
+    second: Tree|CScatter_convert_Box814|Take 001|BaseLayer
+  - first:
+      74: 3782879041016825760
+    second: Tree|CScatter_convert_Box815|Take 001|BaseLayer
+  - first:
+      74: 4431840337614678771
+    second: Tree|CScatter_convert_Box816|Take 001|BaseLayer
+  - first:
+      74: 1132190182775751939
+    second: Tree|CScatter_convert_Box817|Take 001|BaseLayer
+  - first:
+      74: 7820998973743226302
+    second: Tree|CScatter_convert_Box818|Take 001|BaseLayer
+  - first:
+      74: -1039784008506537171
+    second: Tree|CScatter_convert_Box819|Take 001|BaseLayer
+  - first:
+      74: 7489090282856266427
+    second: Tree|CScatter_convert_Box820|Take 001|BaseLayer
+  - first:
+      74: -1817906538936726229
+    second: Tree|CScatter_convert_Box821|Take 001|BaseLayer
+  - first:
+      74: -2965805587585327328
+    second: Tree|CScatter_convert_Box822|Take 001|BaseLayer
+  - first:
+      74: -1009594677322885571
+    second: Tree|CScatter_convert_Box823|Take 001|BaseLayer
+  - first:
+      74: 1512565142976556962
+    second: Tree|CScatter_convert_Box824|Take 001|BaseLayer
+  - first:
+      74: 4678383063055194121
+    second: Tree|CScatter_convert_Box825|Take 001|BaseLayer
+  - first:
+      74: -3120424429677449467
+    second: Tree|CScatter_convert_Box826|Take 001|BaseLayer
+  - first:
+      74: 1903104414135630739
+    second: Tree|CScatter_convert_Box827|Take 001|BaseLayer
+  - first:
+      74: 8107910413317447493
+    second: Tree|CScatter_convert_Box828|Take 001|BaseLayer
+  - first:
+      74: -8337673980026193935
+    second: Tree|CScatter_convert_Box829|Take 001|BaseLayer
+  - first:
+      74: -4312525483874985432
+    second: Tree|CScatter_convert_Box830|Take 001|BaseLayer
+  - first:
+      74: -3019901050866806659
+    second: Tree|CScatter_convert_Box831|Take 001|BaseLayer
+  - first:
+      74: -7127333962355329065
+    second: Tree|CScatter_convert_Box832|Take 001|BaseLayer
+  - first:
+      74: -4719842645550545584
+    second: Tree|CScatter_convert_Box833|Take 001|BaseLayer
+  - first:
+      74: -3155854568018099432
+    second: Tree|CScatter_convert_Box834|Take 001|BaseLayer
+  - first:
+      74: -8045833557891764325
+    second: Tree|CScatter_convert_Box835|Take 001|BaseLayer
+  - first:
+      74: -850665128231776377
+    second: Tree|CScatter_convert_Box836|Take 001|BaseLayer
+  - first:
+      74: -5968467366219040053
+    second: Tree|CScatter_convert_Box837|Take 001|BaseLayer
+  - first:
+      74: -4908250810496924656
+    second: Tree|CScatter_convert_Box838|Take 001|BaseLayer
+  - first:
+      74: -1324325685023738175
+    second: Tree|CScatter_convert_Box839|Take 001|BaseLayer
+  - first:
+      74: -5845189921186027474
+    second: Tree|CScatter_convert_Box840|Take 001|BaseLayer
+  - first:
+      74: -6491894752925077486
+    second: Tree|CScatter_convert_Box841|Take 001|BaseLayer
+  - first:
+      74: 6703721137607229161
+    second: Tree|CScatter_convert_Box842|Take 001|BaseLayer
+  - first:
+      74: 55015088494119394
+    second: Tree|CScatter_convert_Box843|Take 001|BaseLayer
+  - first:
+      74: -2563037848882938944
+    second: Tree|CScatter_convert_Box844|Take 001|BaseLayer
+  - first:
+      74: -2263689736818913461
+    second: Tree|CScatter_convert_Box845|Take 001|BaseLayer
+  - first:
+      74: -2416751035791889973
+    second: Tree|CScatter_convert_Box846|Take 001|BaseLayer
+  - first:
+      74: 8208454850345011897
+    second: Tree|CScatter_convert_Box847|Take 001|BaseLayer
+  - first:
+      74: -7654097379471476265
+    second: Tree|CScatter_convert_Box848|Take 001|BaseLayer
+  - first:
+      74: 7928543113958734493
+    second: Tree|CScatter_convert_Box849|Take 001|BaseLayer
+  - first:
+      74: -2371191615382630034
+    second: Tree|CScatter_convert_Box850|Take 001|BaseLayer
+  - first:
+      74: 6774324838192426672
+    second: Tree|CScatter_convert_Box851|Take 001|BaseLayer
+  - first:
+      74: -4318268525603852508
+    second: Tree|CScatter_convert_Box852|Take 001|BaseLayer
+  - first:
+      74: 6808187517592889214
+    second: Tree|CScatter_convert_Box853|Take 001|BaseLayer
+  - first:
+      74: -8541860879773423525
+    second: Tree|CScatter_convert_Box854|Take 001|BaseLayer
+  - first:
+      74: -6915208444817192896
+    second: Tree|CScatter_convert_Box855|Take 001|BaseLayer
+  - first:
+      74: -5929361721089933064
+    second: Tree|CScatter_convert_Box856|Take 001|BaseLayer
+  - first:
+      74: -9004521969850428615
+    second: Tree|CScatter_convert_Box857|Take 001|BaseLayer
+  - first:
+      74: 2448473466795670541
+    second: Tree|CScatter_convert_Box858|Take 001|BaseLayer
+  - first:
+      74: -5518617217989504095
+    second: Tree|CScatter_convert_Box859|Take 001|BaseLayer
+  - first:
+      74: 6098327227189174742
+    second: Tree|CScatter_convert_Box860|Take 001|BaseLayer
+  - first:
+      74: 6669908441613819641
+    second: Tree|CScatter_convert_Box861|Take 001|BaseLayer
+  - first:
+      74: 3605082973276821510
+    second: Tree|CScatter_convert_Box862|Take 001|BaseLayer
+  - first:
+      74: 1100886498847718006
+    second: Tree|CScatter_convert_Box863|Take 001|BaseLayer
+  - first:
+      74: -3803213625544531472
+    second: Tree|CScatter_convert_Box864|Take 001|BaseLayer
+  - first:
+      74: -3897827781678439339
+    second: Tree|CScatter_convert_Box865|Take 001|BaseLayer
+  - first:
+      74: -1827026550739698148
+    second: Tree|CScatter_convert_Box866|Take 001|BaseLayer
+  - first:
+      74: -5567169778900173149
+    second: Tree|CScatter_convert_Box867|Take 001|BaseLayer
+  - first:
+      74: 2510270314063977436
+    second: Tree|CScatter_convert_Box868|Take 001|BaseLayer
+  - first:
+      74: -2046456596172721019
+    second: Tree|CScatter_convert_Box869|Take 001|BaseLayer
+  - first:
+      74: 3041390924094814404
+    second: Tree|CScatter_convert_Box870|Take 001|BaseLayer
+  - first:
+      74: -1023809530963542207
+    second: Tree|CScatter_convert_Box871|Take 001|BaseLayer
+  - first:
+      74: -4675922249373554826
+    second: Tree|CScatter_convert_Box872|Take 001|BaseLayer
+  - first:
+      74: 5986876894140858641
+    second: Tree|CScatter_convert_Box873|Take 001|BaseLayer
+  - first:
+      74: 3947853590424055221
+    second: Tree|CScatter_convert_Box874|Take 001|BaseLayer
+  - first:
+      74: -1315232244624022510
+    second: Tree|CScatter_convert_Box875|Take 001|BaseLayer
+  - first:
+      74: -3922166038571820191
+    second: Tree|CScatter_convert_Box876|Take 001|BaseLayer
+  - first:
+      74: 1152426944933691340
+    second: Tree|CScatter_convert_Box877|Take 001|BaseLayer
+  - first:
+      74: -2376262783927606434
+    second: Tree|CScatter_convert_Box878|Take 001|BaseLayer
+  - first:
+      74: -6069449165149414863
+    second: Tree|CScatter_convert_Box879|Take 001|BaseLayer
+  - first:
+      74: 7480720266294350719
+    second: Tree|CScatter_convert_Box880|Take 001|BaseLayer
+  - first:
+      74: -7908766033856126640
+    second: Tree|CScatter_convert_Box881|Take 001|BaseLayer
+  - first:
+      74: 4346880760119114606
+    second: Tree|CScatter_convert_Box882|Take 001|BaseLayer
+  - first:
+      74: -9039547104693271504
+    second: Tree|CScatter_convert_Box883|Take 001|BaseLayer
+  - first:
+      74: -6470720383198781225
+    second: Tree|CScatter_convert_Box884|Take 001|BaseLayer
+  - first:
+      74: -1009568903802288121
+    second: Tree|CScatter_convert_Box885|Take 001|BaseLayer
+  - first:
+      74: -7089497690689753
+    second: Tree|CScatter_convert_Box886|Take 001|BaseLayer
+  - first:
+      74: -183400403165576019
+    second: Tree|CScatter_convert_Box887|Take 001|BaseLayer
+  - first:
+      74: 2819142821933329764
+    second: Tree|CScatter_convert_Box888|Take 001|BaseLayer
+  - first:
+      74: 4944163806573321897
+    second: Tree|CScatter_convert_Box889|Take 001|BaseLayer
+  - first:
+      74: 2373744411154332649
+    second: Tree|CScatter_convert_Box890|Take 001|BaseLayer
+  - first:
+      74: -5159620645835386977
+    second: Tree|CScatter_convert_Box891|Take 001|BaseLayer
+  - first:
+      74: 6478189165125245450
+    second: Tree|CScatter_convert_Box892|Take 001|BaseLayer
+  - first:
+      74: -100526198669114331
+    second: Tree|CScatter_convert_Box893|Take 001|BaseLayer
+  - first:
+      74: 2295600349630188100
+    second: Tree|CScatter_convert_Box894|Take 001|BaseLayer
+  - first:
+      74: 2926506683449324923
+    second: Tree|CScatter_convert_Box895|Take 001|BaseLayer
+  - first:
+      74: 7292229327225460627
+    second: Tree|CScatter_convert_Box896|Take 001|BaseLayer
+  - first:
+      74: -3192858064575037458
+    second: Tree|CScatter_convert_Box897|Take 001|BaseLayer
+  - first:
+      74: 4860876266768570326
+    second: Tree|CScatter_convert_Box898|Take 001|BaseLayer
+  - first:
+      74: 928627607123306815
+    second: Tree|CScatter_convert_Box899|Take 001|BaseLayer
+  - first:
+      74: -3523612272695900768
+    second: Tree|CScatter_convert_Box900|Take 001|BaseLayer
+  - first:
+      74: -163369760470589363
+    second: Tree|CScatter_convert_Box901|Take 001|BaseLayer
+  - first:
+      74: -4022763777745153721
+    second: Tree|CScatter_convert_Box902|Take 001|BaseLayer
+  - first:
+      74: -1205825054663039157
+    second: Tree|CScatter_convert_Box903|Take 001|BaseLayer
+  - first:
+      74: -4430625683515851898
+    second: Tree|CScatter_convert_Box904|Take 001|BaseLayer
+  - first:
+      74: 9222692576352299399
+    second: Tree|CScatter_convert_Box905|Take 001|BaseLayer
+  - first:
+      74: -2179621633742760917
+    second: Tree|CScatter_convert_Box906|Take 001|BaseLayer
+  - first:
+      74: -7721295859984888467
+    second: Tree|CScatter_convert_Box907|Take 001|BaseLayer
+  - first:
+      74: 4982408137940744852
+    second: Tree|CScatter_convert_Box908|Take 001|BaseLayer
+  - first:
+      74: 2638177652801751554
+    second: Tree|CScatter_convert_Box909|Take 001|BaseLayer
+  - first:
+      74: 1478346933582199529
+    second: Tree|CScatter_convert_Box910|Take 001|BaseLayer
+  - first:
+      74: -7653285512418976357
+    second: Tree|CScatter_convert_Box911|Take 001|BaseLayer
+  - first:
+      74: -6109202516540714773
+    second: Tree|CScatter_convert_Box912|Take 001|BaseLayer
+  - first:
+      74: -3329767634633036686
+    second: Tree|CScatter_convert_Box913|Take 001|BaseLayer
+  - first:
+      74: -7222304657014592082
+    second: Tree|CScatter_convert_Box914|Take 001|BaseLayer
+  - first:
+      74: -8570273107917363209
+    second: Tree|CScatter_convert_Box915|Take 001|BaseLayer
+  - first:
+      74: 5558955729386474010
+    second: Tree|CScatter_convert_Box916|Take 001|BaseLayer
+  - first:
+      74: -9081104377363776769
+    second: Tree|CScatter_convert_Box917|Take 001|BaseLayer
+  - first:
+      74: 6256789020012983776
+    second: Tree|CScatter_convert_Box918|Take 001|BaseLayer
+  - first:
+      74: -4452715657297005929
+    second: Tree|CScatter_convert_Box919|Take 001|BaseLayer
+  - first:
+      74: 3963991914812688714
+    second: Tree|CScatter_convert_Box920|Take 001|BaseLayer
+  - first:
+      74: 3366729604319871709
+    second: Tree|CScatter_convert_Box921|Take 001|BaseLayer
+  - first:
+      74: -4140208551856419201
+    second: Tree|CScatter_convert_Box922|Take 001|BaseLayer
+  - first:
+      74: 7414144531669699367
+    second: Tree|CScatter_convert_Box923|Take 001|BaseLayer
+  - first:
+      74: -6771113710327082812
+    second: Tree|CScatter_convert_Box924|Take 001|BaseLayer
+  - first:
+      74: -8259127517041989559
+    second: Tree|CScatter_convert_Box925|Take 001|BaseLayer
+  - first:
+      74: 5668521435649282742
+    second: Tree|CScatter_convert_Box926|Take 001|BaseLayer
+  - first:
+      74: 2992428436012602575
+    second: Tree|CScatter_convert_Box927|Take 001|BaseLayer
+  - first:
+      74: -9166260053812803563
+    second: Tree|CScatter_convert_Box928|Take 001|BaseLayer
+  - first:
+      74: -4889568117610630284
+    second: Tree|CScatter_convert_Box929|Take 001|BaseLayer
+  - first:
+      74: 186947107491858373
+    second: Tree|CScatter_convert_Box930|Take 001|BaseLayer
+  - first:
+      74: -6943943688505598664
+    second: Tree|CScatter_convert_Box931|Take 001|BaseLayer
+  - first:
+      74: 8659723011523398485
+    second: Tree|CScatter_convert_Box932|Take 001|BaseLayer
+  - first:
+      74: 3505281626690444507
+    second: Tree|CScatter_convert_Box933|Take 001|BaseLayer
+  - first:
+      74: 7884013087685956636
+    second: Tree|CScatter_convert_Box934|Take 001|BaseLayer
+  - first:
+      74: -6376348296595313913
+    second: Tree|CScatter_convert_Box935|Take 001|BaseLayer
+  - first:
+      74: -5179439475043872033
+    second: Tree|CScatter_convert_Box936|Take 001|BaseLayer
+  - first:
+      74: -2934265621363409366
+    second: Tree|CScatter_convert_Box937|Take 001|BaseLayer
+  - first:
+      74: -6577826335018648578
+    second: Tree|CScatter_convert_Box938|Take 001|BaseLayer
+  - first:
+      74: 50358686601130499
+    second: Tree|CScatter_convert_Box939|Take 001|BaseLayer
+  - first:
+      74: 872141935507279666
+    second: Tree|CScatter_convert_Box940|Take 001|BaseLayer
+  - first:
+      74: -8886899973321110465
+    second: Tree|CScatter_convert_Box941|Take 001|BaseLayer
+  - first:
+      74: 2330790455057739360
+    second: Tree|CScatter_convert_Box942|Take 001|BaseLayer
+  - first:
+      74: 2401004020725350285
+    second: Tree|CScatter_convert_Box943|Take 001|BaseLayer
+  - first:
+      74: -8679622537581186540
+    second: Tree|CScatter_convert_Box944|Take 001|BaseLayer
+  - first:
+      74: 2557224118106811820
+    second: Tree|CScatter_convert_Box945|Take 001|BaseLayer
+  - first:
+      74: 445363374673610814
+    second: Tree|CScatter_convert_Box946|Take 001|BaseLayer
+  - first:
+      74: 3327951608693873150
+    second: Tree|CScatter_convert_Box947|Take 001|BaseLayer
+  - first:
+      74: -2641541970660500094
+    second: Tree|CScatter_convert_Box948|Take 001|BaseLayer
+  - first:
+      74: -8013523792709246826
+    second: Tree|CScatter_convert_Box949|Take 001|BaseLayer
+  - first:
+      74: -6062692479504092583
+    second: Tree|CScatter_convert_Box950|Take 001|BaseLayer
+  - first:
+      74: -7830932882427487687
+    second: Tree|CScatter_convert_Box951|Take 001|BaseLayer
+  - first:
+      74: 1945741679271254999
+    second: Tree|CScatter_convert_Box952|Take 001|BaseLayer
+  - first:
+      74: -3004313278995108769
+    second: Tree|CScatter_convert_Box953|Take 001|BaseLayer
+  - first:
+      74: -6992350667575695335
+    second: Tree|CScatter_convert_Box954|Take 001|BaseLayer
+  - first:
+      74: 7722775274053058799
+    second: Tree|CScatter_convert_Box955|Take 001|BaseLayer
+  - first:
+      74: 1298215381629226573
+    second: Tree|CScatter_convert_Box956|Take 001|BaseLayer
+  - first:
+      74: -7460628027137532447
+    second: Tree|CScatter_convert_Box957|Take 001|BaseLayer
+  - first:
+      74: 7606468890450877180
+    second: Tree|CScatter_convert_Box958|Take 001|BaseLayer
+  - first:
+      74: 8067683339903856221
+    second: Tree|CScatter_convert_Box959|Take 001|BaseLayer
+  - first:
+      74: 9127930289721610762
+    second: Tree|CScatter_convert_Box960|Take 001|BaseLayer
+  - first:
+      74: -3901557848563213873
+    second: Tree|CScatter_convert_Box961|Take 001|BaseLayer
+  - first:
+      74: -6168650714498521506
+    second: Tree|CScatter_convert_Box962|Take 001|BaseLayer
+  - first:
+      74: 4538015274688469745
+    second: Tree|CScatter_convert_Box963|Take 001|BaseLayer
+  - first:
+      74: -7373770410043614309
+    second: Tree|CScatter_convert_Box964|Take 001|BaseLayer
+  - first:
+      74: -4215469499811965376
+    second: Tree|CScatter_convert_Box965|Take 001|BaseLayer
+  - first:
+      74: 7506080004007749614
+    second: Tree|CScatter_convert_Box966|Take 001|BaseLayer
+  - first:
+      74: 8135889513600893886
+    second: Tree|CScatter_convert_Box967|Take 001|BaseLayer
+  - first:
+      74: 5580411966808328740
+    second: Tree|CScatter_convert_Box968|Take 001|BaseLayer
+  - first:
+      74: -3519957248423987499
+    second: Tree|CScatter_convert_Box969|Take 001|BaseLayer
+  - first:
+      74: 8974453672807792002
+    second: Tree|CScatter_convert_Box970|Take 001|BaseLayer
+  - first:
+      74: 4959646352149021279
+    second: Tree|CScatter_convert_Box971|Take 001|BaseLayer
+  - first:
+      74: -5259088454068130253
+    second: Tree|CScatter_convert_Box972|Take 001|BaseLayer
+  - first:
+      74: -5287878539130713344
+    second: Tree|CScatter_convert_Box973|Take 001|BaseLayer
+  - first:
+      74: -7122319456583604506
+    second: Tree|CScatter_convert_Box974|Take 001|BaseLayer
+  - first:
+      74: 7737080381416631924
+    second: Tree|CScatter_convert_Box975|Take 001|BaseLayer
+  - first:
+      74: 985442952965692898
+    second: Tree|CScatter_convert_Box976|Take 001|BaseLayer
+  - first:
+      74: 110050335704778181
+    second: Tree|CScatter_convert_Box977|Take 001|BaseLayer
+  - first:
+      74: 8976439855475944275
+    second: Tree|CScatter_convert_Box978|Take 001|BaseLayer
+  - first:
+      74: -166603316606143137
+    second: Tree|CScatter_convert_Box979|Take 001|BaseLayer
+  - first:
+      74: 3732268016062559405
+    second: Tree|CScatter_convert_Box980|Take 001|BaseLayer
+  - first:
+      74: 7612925731993536517
+    second: Tree|CScatter_convert_Box981|Take 001|BaseLayer
+  - first:
+      74: -1919363528652352339
+    second: Tree|CScatter_convert_Box982|Take 001|BaseLayer
+  - first:
+      74: 6279749577427092958
+    second: Tree|CScatter_convert_Box983|Take 001|BaseLayer
+  - first:
+      74: -6157481940152467446
+    second: Tree|CScatter_convert_Box984|Take 001|BaseLayer
+  - first:
+      74: -7433160542601911672
+    second: Tree|CScatter_convert_Box985|Take 001|BaseLayer
+  - first:
+      74: -8383547484158489504
+    second: Tree|CScatter_convert_Box986|Take 001|BaseLayer
+  - first:
+      74: -3970278375669980897
+    second: Tree|CScatter_convert_Box987|Take 001|BaseLayer
+  - first:
+      74: -5365409343915879865
+    second: Tree|CScatter_convert_Box988|Take 001|BaseLayer
+  - first:
+      74: -6619871176073196252
+    second: Tree|CScatter_convert_Box989|Take 001|BaseLayer
+  - first:
+      74: -2723548122766326702
+    second: Tree|CScatter_convert_Box990|Take 001|BaseLayer
+  - first:
+      74: 6644255144288577844
+    second: Tree|CScatter_convert_Box991|Take 001|BaseLayer
+  - first:
+      74: 2028243024232579571
+    second: Tree|CScatter_convert_Box992|Take 001|BaseLayer
+  - first:
+      74: 81688979843252237
+    second: Tree|CScatter_convert_Box993|Take 001|BaseLayer
+  - first:
+      74: -859552950039281805
+    second: Tree|CScatter_convert_Box994|Take 001|BaseLayer
+  - first:
+      74: -1404101005408304715
+    second: Tree|CScatter_convert_Box995|Take 001|BaseLayer
+  - first:
+      74: 2138427569133549626
+    second: Tree|CScatter_convert_Box996|Take 001|BaseLayer
+  - first:
+      74: 1886676496034331747
+    second: Tree|CScatter_convert_Box997|Take 001|BaseLayer
+  - first:
+      74: 6062043179097761
+    second: Tree|CScatter_convert_Box998|Take 001|BaseLayer
+  - first:
+      74: 336869789131720126
+    second: Tree|CScatter_convert_Box999|Take 001|BaseLayer
+  - first:
+      74: -4272662917855635377
+    second: Tree|floor|Take 001|BaseLayer
+  - first:
+      74: -6262771155235350558
+    second: Tree|glass|Take 001|BaseLayer
+  - first:
+      74: -836712634124568743
+    second: Tree|leaf|Take 001|BaseLayer
+  - first:
+      74: 8166104098985287688
+    second: Tree|paintings|Take 001|BaseLayer
+  - first:
+      74: 4734112316998974956
+    second: Tree|Plane003|Take 001|BaseLayer
+  - first:
+      74: -8692006584282659989
+    second: Tree|stairs|Take 001|BaseLayer
+  - first:
+      74: -4802077159244231725
+    second: Tree|steel|Take 001|BaseLayer
+  - first:
+      74: -4130396175506875906
+    second: Tree|tree|Take 001|BaseLayer
+  - first:
+      74: 855077982349100255
+    second: Tree|walls|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
