@@ -1,1 +1,2 @@
 *.fbx filter=lfs diff=lfs merge=lfs -text
+JetStyleTest/Library/Artifacts/12/12db257d0abccd643a0ea909fcbaafaf filter=lfs diff=lfs merge=lfs -text
